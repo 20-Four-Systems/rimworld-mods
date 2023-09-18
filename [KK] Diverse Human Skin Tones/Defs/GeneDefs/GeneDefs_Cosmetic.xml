@@ -7,163 +7,79 @@
     <defName>KK_Skin_NorthEurope</defName>
     <label>northern european skin</label>
     <labelShortAdj>northern</labelShortAdj>
-    <description>[KK] This gene changes the skin color of the pawn to resemble a Northern European phenotype.</description>
+    <description>This gene changes the skin color of the pawn to resemble a Northern European phenotype.</description>
     <randomBrightnessFactor>0.18</randomBrightnessFactor>
     <skinColorOverride>(255, 224, 189)</skinColorOverride>
-    <displayOrderInCategory>299</displayOrderInCategory>
+    <displayOrderInCategory>361</displayOrderInCategory>
   </GeneDef>
   
   <GeneDef ParentName="GeneSkinColorOverride">
     <defName>KK_Skin_SouthEurope</defName>
     <label>southern european skin</label>
     <labelShortAdj>mediterranean</labelShortAdj>
-    <description>[KK] This gene changes the skin color of the pawn to resemble a Southern European phenotype.</description>
+    <description>This gene changes the skin color of the pawn to resemble a Southern European phenotype.</description>
     <randomBrightnessFactor>0.18</randomBrightnessFactor>
     <skinColorOverride>(204, 190, 139)</skinColorOverride>
-    <displayOrderInCategory>299</displayOrderInCategory>
+    <displayOrderInCategory>362</displayOrderInCategory>
   </GeneDef>
   
   <GeneDef ParentName="GeneSkinColorOverride">
     <defName>KK_Skin_WestAsia</defName>
     <label>west asian skin</label>
     <labelShortAdj>arabian</labelShortAdj>
-    <description>[KK] This gene changes the skin color of the pawn to resemble a West Asian phenotype.</description>
+    <description>This gene changes the skin color of the pawn to resemble a West Asian phenotype.</description>
     <randomBrightnessFactor>0.18</randomBrightnessFactor>
     <skinColorOverride>(212, 166, 127)</skinColorOverride>
-    <displayOrderInCategory>299</displayOrderInCategory>
+    <displayOrderInCategory>363</displayOrderInCategory>
   </GeneDef>
   
   <GeneDef ParentName="GeneSkinColorOverride">
     <defName>KK_Skin_NorthAfrica</defName>
     <label>north african skin</label>
     <labelShortAdj>levantine</labelShortAdj>
-    <description>[KK] This gene changes the skin color of the pawn to resemble a North African phenotype.</description>
+    <description>This gene changes the skin color of the pawn to resemble a North African phenotype.</description>
     <randomBrightnessFactor>0.18</randomBrightnessFactor>
     <skinColorOverride>(190, 142, 96)</skinColorOverride>
-    <displayOrderInCategory>299</displayOrderInCategory>
+    <displayOrderInCategory>364</displayOrderInCategory>
   </GeneDef>
   
   <GeneDef ParentName="GeneSkinColorOverride">
     <defName>KK_Skin_SouthAfrica</defName>
     <label>southern african skin</label>
     <labelShortAdj>african</labelShortAdj>
-    <description>[KK] This gene changes the skin color of the pawn to resemble a Southern African phenotype.</description>
+    <description>This gene changes the skin color of the pawn to resemble a Southern African phenotype.</description>
     <randomBrightnessFactor>0.18</randomBrightnessFactor>
     <skinColorOverride>(141, 85, 36)</skinColorOverride>
-    <displayOrderInCategory>299</displayOrderInCategory>
+    <displayOrderInCategory>365</displayOrderInCategory>
   </GeneDef>
   
   <GeneDef ParentName="GeneSkinColorOverride">
     <defName>KK_Skin_EastAsia</defName>
     <label>east asian skin</label>
     <labelShortAdj>asian</labelShortAdj>
-    <description>[KK] This gene changes the skin color of the pawn to resemble an East Asian phenotype.</description>
+    <description>This gene changes the skin color of the pawn to resemble an East Asian phenotype.</description>
     <randomBrightnessFactor>0.36</randomBrightnessFactor>
     <skinColorOverride>(241, 194, 125)</skinColorOverride>
-    <displayOrderInCategory>299</displayOrderInCategory>
+    <displayOrderInCategory>366</displayOrderInCategory>
   </GeneDef>
   
   <GeneDef ParentName="GeneSkinColorOverride">
     <defName>KK_Skin_SouthAsia</defName>
     <label>south asian skin</label>
     <labelShortAdj>indian</labelShortAdj>
-    <description>[KK] This gene changes the skin color of the pawn to resemble a South Asian phenotype.</description>
+    <description>This gene changes the skin color of the pawn to resemble a South Asian phenotype.</description>
     <randomBrightnessFactor>0.36</randomBrightnessFactor>
-    <skinColorOverride>(109, 66, 52)</skinColorOverride>
-    <displayOrderInCategory>299</displayOrderInCategory>
+    <skinColorOverride>(101, 82, 74)</skinColorOverride>
+    <displayOrderInCategory>367</displayOrderInCategory>
   </GeneDef>
-
-  <!-- Hair - exotic monochrome
-
-  <GeneDef ParentName="GeneHairColorBase">
-    <defName>LYN_Hair_Verdant</defName>
-    <label>verdant hair</label>
-    <hairColorOverride>(69, 163, 80)</hairColorOverride>
-    <selectionWeight>0.05</selectionWeight>
-    <displayOrderInCategory>0</displayOrderInCategory>
-    <randomBrightnessFactor>0</randomBrightnessFactor>
+  
+  <GeneDef ParentName="GeneSkinColorOverride">
+    <defName>KK_Skin_Polynesia</defName>
+    <label>polynesian skin</label>
+    <labelShortAdj>polynesian</labelShortAdj>
+    <description>This gene changes the skin color of the pawn to resemble a Polynesian phenotype.</description>
+    <randomBrightnessFactor>0.18</randomBrightnessFactor>
+    <skinColorOverride>(186, 133, 104)</skinColorOverride>
+    <displayOrderInCategory>368</displayOrderInCategory>
   </GeneDef>
-
-  <GeneDef ParentName="GeneHairColorBase">
-    <defName>LYN_Hair_Golden</defName>
-    <label>golden hair</label>
-    <hairColorOverride>(230, 207, 78)</hairColorOverride>
-    <selectionWeight>0.05</selectionWeight>
-    <displayOrderInCategory>0</displayOrderInCategory>
-    <randomBrightnessFactor>0</randomBrightnessFactor>
-  </GeneDef>
-
-  <GeneDef ParentName="GeneHairColorBase">
-    <defName>LYN_Hair_Azure</defName>
-    <label>azure hair</label>
-    <hairColorOverride>(109, 171, 201)</hairColorOverride>
-    <selectionWeight>0.05</selectionWeight>
-    <displayOrderInCategory>0</displayOrderInCategory>
-    <randomBrightnessFactor>0</randomBrightnessFactor>
-  </GeneDef>
-
-  <GeneDef ParentName="GeneHairColorBase">
-    <defName>LYN_Hair_DeepBlue</defName>
-    <label>deep blue hair</label>
-    <hairColorOverride>(62, 70, 122)</hairColorOverride>
-    <selectionWeight>0.05</selectionWeight>
-    <displayOrderInCategory>0</displayOrderInCategory>
-    <randomBrightnessFactor>0</randomBrightnessFactor>
-  </GeneDef>
-
-  <GeneDef ParentName="GeneHairColorBase">
-    <defName>LYN_Hair_Crimson</defName>
-    <label>crimson hair</label>
-    <hairColorOverride>(189, 51, 51)</hairColorOverride>
-    <selectionWeight>0.05</selectionWeight>
-    <displayOrderInCategory>0</displayOrderInCategory>
-    <randomBrightnessFactor>0</randomBrightnessFactor>
-  </GeneDef>
-
-  <GeneDef ParentName="GeneHairColorBase">
-    <defName>LYN_Hair_Fiery</defName>
-    <label>fiery hair</label>
-    <hairColorOverride>(237, 135, 45)</hairColorOverride>
-    <selectionWeight>0.05</selectionWeight>
-    <displayOrderInCategory>0</displayOrderInCategory>
-    <randomBrightnessFactor>0</randomBrightnessFactor>
-  </GeneDef>
-
-  <GeneDef ParentName="GeneHairColorBase">
-    <defName>LYN_Hair_Teal</defName>
-    <label>cyan hair</label>
-    <hairColorOverride>(126, 196, 170)</hairColorOverride>
-    <selectionWeight>0.05</selectionWeight>
-    <displayOrderInCategory>0</displayOrderInCategory>
-    <randomBrightnessFactor>0</randomBrightnessFactor>
-  </GeneDef>
-
-  <GeneDef ParentName="GeneHairColorBase">
-    <defName>LYN_Hair_Maroon</defName>
-    <label>maroon hair</label>
-    <hairColorOverride>(138, 61, 51)</hairColorOverride>
-    <selectionWeight>0.05</selectionWeight>
-    <displayOrderInCategory>0</displayOrderInCategory>
-    <randomBrightnessFactor>0</randomBrightnessFactor>
-  </GeneDef>
-
-  <GeneDef ParentName="GeneHairColorBase">
-    <defName>LYN_Hair_Cherry</defName>
-    <label>cherry hair</label>
-    <hairColorOverride>(237, 168, 219)</hairColorOverride>
-    <selectionWeight>0.05</selectionWeight>
-    <displayOrderInCategory>0</displayOrderInCategory>
-    <randomBrightnessFactor>0</randomBrightnessFactor>
-  </GeneDef>
-
-  <GeneDef ParentName="GeneHairColorBase">
-    <defName>LYN_Hair_Violet</defName>
-    <label>violet hair</label>
-    <hairColorOverride>(133, 57, 191)</hairColorOverride>
-    <selectionWeight>0.05</selectionWeight>
-    <displayOrderInCategory>0</displayOrderInCategory>
-    <randomBrightnessFactor>0</randomBrightnessFactor>
-  </GeneDef>
-  -->
-
 </Defs>
