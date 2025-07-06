@@ -1,22 +1,13 @@
-# [KK] Diverse Human Skin Tones
-Official GitHub repo for KK's Diverse Human Skin Tones mod for Rimworld.
+# Rimworld Mods
+Full list of flavourful mods for Rimworld.
 
-Adds unique entries for all real world continental human skin tones. No changes are made to the default Rimworld melanin system, which remains in place. Build your galactic Chinese Middle Kingdom or a village of raging Norseman - the Rim is the limit!
+## List
 
-## v1.1: Maori release
-## For Rimworld 1.4
+### Released Mods
+`[KK] Diverse Human Skin Tones`
+**Adds unique entries for all real world continental human skin tones. No changes are made to the default Rimworld melanin system, which remains in place. Build your galactic Chinese Middle Kingdom or a village of raging Norseman - the Rim is the limit!**
 
-## v1.1 Maori release
-- Added an additional real world skin colour - Polynesian, for a total of 8.
-- Modified South Asian (Indian) skin colour.
-- Fixed order of gene priority in all real world skin colours.
+`[KK] WH40K - Astartes Gene-Seeds`
+**As the Horus Heresy rages across the galaxy, the Legions of the Imperium crashland on the Rim. Play out your own scenario as you take Loyalist against Traitor for the fate of all reality. Declare your alleigence by playing a Legion, or make your own Legion with your choice of Astartes Gene-Seed. Let the die be cast.**
 
-## Initial v1.0 Foundation release
-Added 7 real world skin colours:
-- Northern European
-- Southern Europeamn (Mediterranean)
-- West Asian (Arabian)
-- East Asian
-- South Asian (Indian)
-- North African (Levantine)
-- Southern African
+### Planned

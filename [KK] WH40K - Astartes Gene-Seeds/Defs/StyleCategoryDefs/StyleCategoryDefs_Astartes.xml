@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <StyleCategoryDef>
+    <defName>KK_Imperial</defName>
+    <label>Imperial</label>
+    <iconPath>UI/Structures/KK_ImperialCult</iconPath>
+    <soundOngoingRitual>RitualSustainer_Christian</soundOngoingRitual>
+    <ritualVisualEffectDef>Christian</ritualVisualEffectDef>
+    <thingDefStyles>
+		<li>
+			<thingDef>Ideogram</thingDef>
+			<styleDef>Imperial_IdeogramA</styleDef>
+		</li>
+    </thingDefStyles>
+  </StyleCategoryDef>
+  
+  <StyleCategoryDef>
+    <defName>KK_Chapter</defName>
+    <label>Chapter</label>
+    <iconPath>UI/Structures/KK_LoyalistChapter</iconPath>
+    <soundOngoingRitual>RitualSustainer_Christian</soundOngoingRitual>
+    <ritualVisualEffectDef>Christian</ritualVisualEffectDef>
+    <thingDefStyles>
+		<li>
+			<thingDef>Gun_ChargeRifle</thingDef>
+			<styleDef>Chapter_ChargeRifle</styleDef>
+		</li>
+    </thingDefStyles>
+  </StyleCategoryDef>
+  
+  <StyleCategoryDef>
+    <defName>KK_Chaos</defName>
+    <label>Chaos</label>
+    <iconPath>UI/Structures/KK_ChaosUndivided</iconPath>
+    <soundOngoingRitual>RitualSustainer_Morbid</soundOngoingRitual>
+    <ritualVisualEffectDef>Morbid</ritualVisualEffectDef>
+    <thingDefStyles>
+		<li>
+			<thingDef>Ideogram</thingDef>
+			<styleDef>Chaos_IdeogramA</styleDef>
+		</li>
+    </thingDefStyles>
+  </StyleCategoryDef>
+
+</Defs>

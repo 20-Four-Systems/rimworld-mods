@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<!-- Imperial Cult -->
+  <MemeDef>
+    <defName>Structure_ImperialCult</defName>
+    <label>imperial origin</label>
+    <description>This is a variant of the embodied theist structure. This ideoligion is a variation of the Imperial Cult. It may have very different precepts than those of normal worship of the God-Emperor, but its symbols are similar.</description>
+    <category>Structure</category>
+    <iconPath>UI/Structures/KK_ImperialCult</iconPath>
+    <impact>0</impact>
+
+    <deityNameMakerOverride>DietyNameImperial</deityNameMakerOverride>
+    <deityTypeMakerOverride>DietyTypeImperial</deityTypeMakerOverride>
+
+    <worshipRoomLabel>cathedral</worshipRoomLabel>
+    <randomizationSelectionWeightFactor>1</randomizationSelectionWeightFactor>
+    <deityCount>1</deityCount>
+    <requireAnyRitualSeat><li>Pew</li></requireAnyRitualSeat>
+    <groupDef>Theist_Embodied</groupDef>
+    <generalRules>
+      <rulesStrings>
+        <li>memeCreed(p=99)->truth</li>
+        <li>memeCreed(p=99)->creed</li>
+        <li>memeHyphenPrefix(p=3)->neo</li>
+        <li>memeHyphenPrefix(p=3)->high</li>
+        <li>memeHyphenPrefix(p=3)->hive</li>
+        <li>memeLeaderNoun(p=99)->govenor</li>
+        <li>memeMoralist(p=99)->ecclesiarch</li>
+      </rulesStrings>
+    </generalRules>
+    <descriptionMaker>
+	<patterns>
+		<li><def>TheistMyth</def></li>
+		<li><def>TheistFounder</def></li>
+	</patterns>
+	<constants>
+		<li><key>structure_theist</key><value>true</value></li>
+	</constants>
+    </descriptionMaker>
+    <symbolPacks>
+		<li>
+			<ideoName>Imperial Cult</ideoName>
+			<adjective>Imperial</adjective>
+			<member>Imperial</member>
+			<prefix>true</prefix>
+		</li>
+    </symbolPacks>
+    <thingStyleCategories>
+      <li>
+        <category>KK_Imperial</category>
+        <priority>99</priority>
+      </li>
+    </thingStyleCategories>
+  </MemeDef>
+  
+	<!-- Loyalist Chapter -->
+  <MemeDef>
+    <defName>Structure_LoyalistChapter</defName>
+    <label>loyalist chapter</label>
+    <description>The only truth is in the wisdom of our Primarch. The only good is through the direction of our Chapter.</description>
+    <category>Structure</category>
+    <iconPath>UI/Structures/KK_LoyalistChapter</iconPath>
+    <impact>0</impact>
+
+    <deityNameMakerOverride>DietyNameImperial</deityNameMakerOverride>
+    <deityTypeMakerOverride>DietyTypeImperial</deityTypeMakerOverride>
+
+    <worshipRoomLabel>cathedral</worshipRoomLabel>
+    <randomizationSelectionWeightFactor>0</randomizationSelectionWeightFactor>
+    <deityCount>1</deityCount>
+    <requireAnyRitualSeat><li>Pew</li></requireAnyRitualSeat>
+    <generalRules>
+      <rulesStrings>
+        <li>memeCreed(p=99)->chapter</li>
+        <li>memeLeaderNoun(p=99)->brother-captain</li>
+        <li>memeMoralist(p=99)->brother-chaplain</li>
+      </rulesStrings>
+    </generalRules>
+    <descriptionMaker>
+	<patterns>
+		<li><def>TheistMyth</def></li>
+		<li><def>TheistFounder</def></li>
+	</patterns>
+	<constants>
+		<li><key>structure_theist</key><value>true</value></li>
+	</constants>
+    </descriptionMaker>
+    <symbolPacks>
+		<li>
+			<ideoName>Loyalist Chapter</ideoName>
+			<adjective>Chapter</adjective>
+			<member>Brother</member>
+			<prefix>false</prefix>
+		</li>
+    </symbolPacks>
+    <thingStyleCategories>
+      <li>
+        <category>KK_Imperial</category>
+        <priority>99</priority>
+      </li>
+      <li>
+        <category>KK_Chapter</category>
+        <priority>99</priority>
+      </li>
+    </thingStyleCategories>
+  </MemeDef>
+
+	<!-- Imperial Cult Name / Type -->
+  <RulePackDef>
+    <defName>DietyNameImperial</defName>
+    <include>
+		<li>GlobalUtility</li>
+    </include>
+    <rulePack>
+      <rulesStrings>
+		<li>r_deityName(p=3)->The God-Emperor</li>
+      </rulesStrings>
+    </rulePack>
+  </RulePackDef>
+  
+  <RulePackDef>
+    <defName>DietyTypeImperial</defName>
+    <rulePack>
+      <rulesStrings>
+        <li>r_deityType->Master of [all]</li>
+        <li>r_deityType->Emperor of [all]</li>
+
+        <li>all->mankind</li>
+        <li>all->humanity</li>
+        <li>all->the imperium</li>
+		
+      </rulesStrings>
+    </rulePack>
+  </RulePackDef>
+
+	<!-- Chaos Undivided -->
+  <MemeDef>
+    <defName>Structure_ChaosUndivided</defName>
+    <label>chaos origin</label>
+    <description>This is a variant of the embodied theist structure. This ideoligion is a variation of Chaos Undivided. It may have very different precepts than those of normal worship of the Ruinous Powers, but its symbols are similar.</description>
+    <category>Structure</category>
+    <iconPath>UI/Structures/KK_ChaosUndivided</iconPath>
+    <impact>0</impact>
+	
+    <worshipRoomLabel>temple</worshipRoomLabel>
+    <randomizationSelectionWeightFactor>1</randomizationSelectionWeightFactor>
+    <deityCount>4</deityCount>
+    <requireAnyRitualSeat><li>KneelSheet</li></requireAnyRitualSeat>
+    <groupDef>Theist_Embodied</groupDef>
+    <generalRules>
+      <rulesStrings>
+        <li>memeCreed(p=99)->cult</li>
+        <li>memeCreed(p=99)->horde</li>
+        <li>memeCreed(p=99)->cabal</li>
+        <li>memeCreed(p=99)->host</li>
+        <li>memeCreed(p=99)->fray</li>
+        <li>memeHyphenPrefix(p=3)->cursed</li>
+        <li>memeHyphenPrefix(p=3)->lost</li>
+        <li>memeHyphenPrefix(p=3)->corrupt</li>
+        <li>memeLeaderNoun(p=99)->warlord</li>
+        <li>memeMoralist(p=99)->sorcerer</li>
+      </rulesStrings>
+    </generalRules>
+    <descriptionMaker>
+	<patterns>
+		<li><def>TheistMyth</def></li>
+		<li><def>TheistFounder</def></li>
+	</patterns>
+	<constants>
+		<li><key>structure_theist</key><value>true</value></li>
+	</constants>
+    </descriptionMaker>
+    <symbolPacks>
+		<li>
+			<ideoName>Chaos Undivided</ideoName>
+			<adjective>Cultist</adjective>
+			<member>Cultist</member>
+			<prefix>true</prefix>
+		</li>
+    </symbolPacks>
+
+    <fixedDeityNameTypes>
+      <li><name>Khorne</name><type>The Blood God</type></li>
+      <li><name>Tzeentch</name><type>The Changer of the Ways</type></li>
+      <li><name>Nurgle</name><type>The Great Lord of Decay</type></li>
+      <li><name>Slaanesh</name><type>The Prince of Excess</type></li>
+    </fixedDeityNameTypes>
+
+    <thingStyleCategories>
+      <li>
+        <category>KK_Chaos</category>
+        <priority>99</priority>
+      </li>
+    </thingStyleCategories>
+  </MemeDef>
+
+	<!-- Traitor Chapter -->
+  <MemeDef>
+    <defName>Structure_TraitorChapter</defName>
+    <label>traitor chapter</label>
+    <description>The only truth is in the strength of our Primarch. There is no good - only power; and power is found in our Chapter.</description>
+    <category>Structure</category>
+    <iconPath>UI/Structures/KK_TraitorChapter</iconPath>
+    <impact>0</impact>
+
+    <worshipRoomLabel>temple</worshipRoomLabel>
+    <randomizationSelectionWeightFactor>0</randomizationSelectionWeightFactor>
+    <deityCount>4</deityCount>
+    <requireAnyRitualSeat><li>Pew</li></requireAnyRitualSeat>
+    <generalRules>
+      <rulesStrings>
+        <li>memeCreed(p=99)->chapter</li>
+        <li>memeLeaderNoun(p=99)->brother-captain</li>
+        <li>memeMoralist(p=99)->brother-sorcerer</li>
+      </rulesStrings>
+    </generalRules>
+    <descriptionMaker>
+	<patterns>
+		<li><def>TheistMyth</def></li>
+		<li><def>TheistFounder</def></li>
+	</patterns>
+	<constants>
+		<li><key>structure_theist</key><value>true</value></li>
+	</constants>
+    </descriptionMaker>
+    <symbolPacks>
+		<li>
+			<ideoName>Traitor Chapter</ideoName>
+			<adjective>Chapter</adjective>
+			<member>Brother</member>
+			<prefix>false</prefix>
+		</li>
+    </symbolPacks>
+
+    <fixedDeityNameTypes>
+      <li><name>Khorne</name><type>The Blood God</type></li>
+      <li><name>Tzeentch</name><type>The Changer of the Ways</type></li>
+      <li><name>Nurgle</name><type>The Great Lord of Decay</type></li>
+      <li><name>Slaanesh</name><type>The Prince of Excess</type></li>
+    </fixedDeityNameTypes>
+
+    <thingStyleCategories>
+      <li>
+        <category>KK_Chaos</category>
+        <priority>99</priority>
+      </li>
+      <li>
+        <category>KK_Chapter</category>
+        <priority>99</priority>
+      </li>
+    </thingStyleCategories>
+  </MemeDef>
+
+</Defs>
