@@ -17,7 +17,7 @@
 			<!-- Cosmetics -->
 			<li>Body_Hulk</li>
 			<li>KK_Skin_NorthEurope</li>
-			<li>Hair_SandyBlonde</li>
+			<li>KK_Skin_SouthEurope</li>
 
 			<!-- 2/-2 Aptitude -->
 			<li>AptitudeStrong_Shooting</li>
@@ -47,7 +47,7 @@
 			<!-- Cosmetics -->
 			<li>Body_Hulk</li>
 			<li>KK_Skin_NorthEurope</li>
-			<li>Hair_SnowWhite</li>
+			<li>KK_Skin_SouthEurope</li>
 
 			<!-- 2/-2 Aptitude -->
 			<li>AptitudeStrong_Artistic</li>
@@ -77,7 +77,7 @@
 			<!-- Cosmetics -->
 			<li>Body_Hulk</li>
 			<li>KK_Skin_NorthEurope</li>
-			<li>Hair_BaldOnly</li>
+			<li>KK_Skin_SouthEurope</li>
 
 			<!-- 2/-2 Aptitude -->
 			<li>AptitudeRemarkable_Shooting</li>
@@ -106,8 +106,9 @@
 			<li>KK_GeneSeed_V</li>
 			<!-- Cosmetics -->
 			<li>Body_Hulk</li>
-			<li>KK_Skin_WestAsia</li>
-			<li>Hair_SandyBlonde</li>
+			<li>KK_Skin_NorthEurope</li>
+			<li>KK_Skin_SouthEurope</li>
+			<li>KK_Skin_EastAsia</li>
 
 			<!-- 2/-2 Aptitude -->
 			<li>AptitudeStrong_Shooting</li>
@@ -137,7 +138,6 @@
 			<!-- Cosmetics -->
 			<li>Body_Hulk</li>
 			<li>KK_Skin_NorthEurope</li>
-			<li>Hair_Blonde</li>
 
 			<!-- 2/-2 Aptitude -->
 			<li>AptitudeStrong_Melee</li>
@@ -167,7 +167,7 @@
 			<!-- Cosmetics -->
 			<li>Body_Hulk</li>
 			<li>KK_Skin_NorthEurope</li>
-			<li>Hair_SnowWhite</li>
+			<li>KK_Skin_SouthEurope</li>
 
 			<!-- 2/-2 Aptitude -->
 			<li>AptitudeRemarkable_Construction</li>
@@ -197,7 +197,6 @@
 			<!-- Cosmetics -->
 			<li>Body_Hulk</li>
 			<li>Skin_SheerWhite</li>
-			<li>Hair_InkBlack</li>
 
 			<!-- 2/-2 Aptitude -->
 			<li>AptitudeStrong_Animals</li>
@@ -227,7 +226,7 @@
 			<!-- Cosmetics -->
 			<li>Body_Hulk</li>
 			<li>KK_Skin_NorthEurope</li>
-			<li>Hair_Blonde</li>
+			<li>KK_Skin_SouthEurope</li>
 
 			<!-- 2/-2 Aptitude -->
 			<li>AptitudeStrong_Melee</li>
@@ -256,8 +255,8 @@
 			<li>KK_GeneSeed_X</li>
 			<!-- Cosmetics -->
 			<li>Body_Hulk</li>
+			<li>KK_Skin_NorthEurope</li>
 			<li>KK_Skin_SouthEurope</li>
-			<li>Hair_ReddishBrown</li>
 
 			<!-- 2/-2 Aptitude -->
 			<li>AptitudeStrong_Shooting</li>
@@ -286,8 +285,8 @@
 			<li>KK_GeneSeed_XII</li>
 			<!-- Cosmetics -->
 			<li>Body_Hulk</li>
-			<li>KK_Skin_WestAsia</li>
-			<li>Hair_ReddishBrown</li>
+			<li>KK_Skin_NorthEurope</li>
+			<li>KK_Skin_SouthEurope</li>
 
 			<!-- 2/-2 Aptitude -->
 			<li>AptitudeRemarkable_Melee</li>
@@ -316,8 +315,8 @@
 			<li>KK_GeneSeed_XIII</li>
 			<!-- Cosmetics -->
 			<li>Body_Hulk</li>
+			<li>KK_Skin_NorthEurope</li>
 			<li>KK_Skin_SouthEurope</li>
-			<li>Hair_Blonde</li>
 
 			<!-- 2/-2 Aptitude -->
 			<li>AptitudeStrong_Construction</li>
@@ -346,8 +345,8 @@
 			<li>KK_GeneSeed_XIV</li>
 			<!-- Cosmetics -->
 			<li>Body_Hulk</li>
+			<li>Skin_SheerWhite</li>
 			<li>KK_Skin_NorthEurope</li>
-			<li>Hair_DarkBlack</li>
 
 			<!-- 2/-2 Aptitude -->
 			<li>AptitudeRemarkable_Plants</li>
@@ -376,8 +375,8 @@
 			<li>KK_GeneSeed_XV</li>
 			<!-- Cosmetics -->
 			<li>Body_Hulk</li>
-			<li>KK_Skin_SouthAsia</li>
-			<li>Hair_DarkReddish</li>
+			<li>KK_Skin_NorthEurope</li>
+			<li>KK_Skin_SouthEurope</li>
 
 			<!-- 2/-2 Aptitude -->
 			<li>AptitudeRemarkable_Intellectual</li>
@@ -407,7 +406,7 @@
 			<!-- Cosmetics -->
 			<li>Body_Hulk</li>
 			<li>KK_Skin_NorthEurope</li>
-			<li>Hair_DarkBlack</li>
+			<li>KK_Skin_SouthEurope</li>
 
 			<!-- 2/-2 Aptitude -->
 			<li>AptitudeStrong_Melee</li>
@@ -436,8 +435,8 @@
 			<li>KK_GeneSeed_XVII</li>
 			<!-- Cosmetics -->
 			<li>Body_Hulk</li>
+			<li>KK_Skin_NorthEurope</li>
 			<li>KK_Skin_SouthEurope</li>
-			<li>Hair_BaldOnly</li>
 
 			<!-- 2/-2 Aptitude -->
 			<li>AptitudeRemarkable_Social</li>
@@ -466,8 +465,8 @@
 			<li>KK_GeneSeed_XVIII</li>
 			<!-- Cosmetics -->
 			<li>Body_Hulk</li>
-			<li>KK_Skin_SouthAfrica</li>
-			<li>Hair_DarkBlack</li>
+			<li>Skin_InkBlack</li>
+			<li>Eyes_Red</li>
 
 			<!-- 2/-2 Aptitude -->
 			<li>AptitudeRemarkable_Crafting</li>
@@ -497,7 +496,6 @@
 			<!-- Cosmetics -->
 			<li>Body_Hulk</li>
 			<li>Skin_SheerWhite</li>
-			<li>Hair_InkBlack</li>
 
 			<!-- 2/-2 Aptitude -->
 			<li>AptitudeStrong_Shooting</li>

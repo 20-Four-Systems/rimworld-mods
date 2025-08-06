@@ -15,31 +15,32 @@
 	</degreeDatas>
 </TraitDef> -->
 
-	<!-- Adeptus Astartes -->
-  <TraitDef>
-    <defName>KK_Astartes</defName>
-    <commonality>0</commonality>
-    <degreeDatas>
-	<li>
-		<label>adeptus astartes</label>
-		<description>[PAWN_nameDef] is a member of the Legiones Astartes - the Space Marines. They shall know no fear!</description>
-		<!-- degree>1</degree -->
-		<skillGains>
-			<Shooting>4</Shooting>
-			<Melee>4</Melee>
-			<Construction>4</Construction>
-			<Mining>4</Mining>
-			<Cooking>4</Cooking>
-			<Plants>4</Plants>
-			<Animals>4</Animals>
-			<Crafting>4</Crafting>
-			<Artistic>4</Artistic>
-			<Medicine>4</Medicine>
-			<Social>4</Social>
-			<Intellectual>4</Intellectual>
-		</skillGains>
-		<statOffsets></statOffsets>
-	</li>    
-    </degreeDatas>
-  </TraitDef>
+	<!-- Astartes -->
+	<TraitDef>
+		<defName>204_Astartes</defName>
+		<commonality>0</commonality>
+		<degreeDatas>
+			<li>
+				<label>astartes</label>
+				<description>[PAWN_nameDef] was surgically implanted with the gene-seed of a Primarch. The procedure was a success. [PAWN_pronoun] became a super-soldier - an Angel of Death - never again to know fear.
+				</description>
+				<!-- degree>1</degree -->
+				<skillGains>
+					<Shooting>4</Shooting>
+					<Melee>4</Melee>
+					<Construction>4</Construction>
+					<Mining>4</Mining>
+					<Cooking>4</Cooking>
+					<Plants>4</Plants>
+					<Animals>4</Animals>
+					<Crafting>4</Crafting>
+					<Artistic>4</Artistic>
+					<Medicine>4</Medicine>
+					<Social>4</Social>
+					<Intellectual>4</Intellectual>
+				</skillGains>
+				<statOffsets></statOffsets>
+			</li>    
+		</degreeDatas>
+	</TraitDef>
 </Defs>

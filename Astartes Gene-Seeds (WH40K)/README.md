@@ -13,6 +13,13 @@ Let the die be cast.
 ## Changelog
 
 <details open>
+	<summary>Brotherhood release (v1.2)</summary>
+
+- Renamed 'adeptus astartes' to 'astartes'.
+
+</details>
+
+<details>
 	<summary>Codex release (v1.1)</summary>
 
 - Added 4 preset Ideoligions; Imperial cult, Chaos cult, Loyalist chapter and Traitor chapter.
