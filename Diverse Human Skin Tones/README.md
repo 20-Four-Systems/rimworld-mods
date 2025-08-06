@@ -1,7 +1,9 @@
 # Diverse Human Skin Tones
-Adds unique entries for all real world continental human skin tones. No changes are made to the default Rimworld melanin system, which remains in place. Build your galactic Chinese Middle Kingdom or a village of raging Norseman - the Rim is the limit!
+Adds unique entries for all real world continental human skin tones. No changes are made to the default Rimworld melanin system, which remains in place. Build your galactic Middle Kingdom or a village of raging Norseman - the Rim is the limit!
 
+*For Rimworld 1.6*
 *For Rimworld 1.5*
+*For Rimworld 1.4*
 
 ## Changelog
 
@@ -19,7 +21,7 @@ Adds unique entries for all real world continental human skin tones. No changes 
 
 Added 7 real world skin colours:
 - Northern European
-- Southern Europeamn (Mediterranean)
+- Southern European (Mediterranean)
 - West Asian (Arabian)
 - East Asian
 - South Asian (Indian)
