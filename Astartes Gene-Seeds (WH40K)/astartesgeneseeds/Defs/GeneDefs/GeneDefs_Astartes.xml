@@ -2,7 +2,7 @@
 <Defs>
 
 	<!-- Gene Categories -->
-  <GeneDef Name="KK_GeneGenSeedsBase" Abstract="True">
+  <GeneDef Name="204_GeneGenSeedsBase" Abstract="True">
     <biostatCpx>0</biostatCpx>
     <displayCategory>Gene_Seeds</displayCategory>
     <iconColor>(0.75, 0.75, 0.75)</iconColor>
@@ -18,12 +18,12 @@
   </GeneCategoryDef>
   
   <!-- 1st - Dark Angels -->
-  <GeneDef ParentName="KK_GeneGenSeedsBase">
-    <defName>KK_GeneSeed_I</defName>
+  <GeneDef ParentName="204_GeneGenSeedsBase">
+    <defName>204_GeneSeed_I</defName>
     <label>Dark Angels gene-seed</label>
     <labelShortAdj>1st gene-seed</labelShortAdj>
     <description>This gene implants a pawn with the Astartes Gene-Seed of the Dark Angels.</description>
-	<iconPath>UI/Icons/Genes/KK_GeneSeed_Default</iconPath>
+	<iconPath>UI/Icons/Genes/204_GeneSeed_Default</iconPath>
     <iconColor>(0.27, 0.63, 0.27)</iconColor>
 	
 	<biostatCpx>10</biostatCpx>
@@ -79,38 +79,38 @@
 	<selectionWeight>0</selectionWeight>
 	
 	<!-- exclusionTags>
-		<li>KK_GeneSeed_I</li>
-		<li>KK_GeneSeed_II</li>
-		<li>KK_GeneSeed_III</li>
-		<li>KK_GeneSeed_IV</li>
-		<li>KK_GeneSeed_V</li>
-		<li>KK_GeneSeed_VI</li>
-		<li>KK_GeneSeed_VII</li>
-		<li>KK_GeneSeed_VIII</li>
-		<li>KK_GeneSeed_IX</li>
-		<li>KK_GeneSeed_X</li>
-		<li>KK_GeneSeed_XI</li>
-		<li>KK_GeneSeed_XII</li>
-		<li>KK_GeneSeed_XIII</li>
-		<li>KK_GeneSeed_XIV</li>
-		<li>KK_GeneSeed_XV</li>
-		<li>KK_GeneSeed_XVI</li>
-		<li>KK_GeneSeed_XVII</li>
-		<li>KK_GeneSeed_XVIII</li>
-		<li>KK_GeneSeed_XIX</li>
-		<li>KK_GeneSeed_XX</li>
+		<li>204_GeneSeed_I</li>
+		<li>204_GeneSeed_II</li>
+		<li>204_GeneSeed_III</li>
+		<li>204_GeneSeed_IV</li>
+		<li>204_GeneSeed_V</li>
+		<li>204_GeneSeed_VI</li>
+		<li>204_GeneSeed_VII</li>
+		<li>204_GeneSeed_VIII</li>
+		<li>204_GeneSeed_IX</li>
+		<li>204_GeneSeed_X</li>
+		<li>204_GeneSeed_XI</li>
+		<li>204_GeneSeed_XII</li>
+		<li>204_GeneSeed_XIII</li>
+		<li>204_GeneSeed_XIV</li>
+		<li>204_GeneSeed_XV</li>
+		<li>204_GeneSeed_XVI</li>
+		<li>204_GeneSeed_XVII</li>
+		<li>204_GeneSeed_XVIII</li>
+		<li>204_GeneSeed_XIX</li>
+		<li>204_GeneSeed_XX</li>
 	</exclusionTags -->
 	
     <displayOrderInCategory>1</displayOrderInCategory>
   </GeneDef>
 
   <!-- 3rd - Emperor's Children -->
-  <GeneDef ParentName="KK_GeneGenSeedsBase">
-    <defName>KK_GeneSeed_III</defName>
+  <GeneDef ParentName="204_GeneGenSeedsBase">
+    <defName>204_GeneSeed_III</defName>
     <label>Emperor's Children gene-seed</label>
     <labelShortAdj>3rd gene-seed</labelShortAdj>
     <description>This gene implants a pawn with the Astartes Gene-Seed of the Emperor's Children.</description>
-	<iconPath>UI/Icons/Genes/KK_GeneSeed_Default</iconPath>
+	<iconPath>UI/Icons/Genes/204_GeneSeed_Default</iconPath>
     <iconColor>(0.94, 0.61, 0.71)</iconColor>
 	
 	<biostatCpx>11</biostatCpx>
@@ -165,38 +165,38 @@
 	<selectionWeight>0</selectionWeight>
 	
 	<!-- exclusionTags>
-		<li>KK_GeneSeed_I</li>
-		<li>KK_GeneSeed_II</li>
-		<li>KK_GeneSeed_III</li>
-		<li>KK_GeneSeed_IV</li>
-		<li>KK_GeneSeed_V</li>
-		<li>KK_GeneSeed_VI</li>
-		<li>KK_GeneSeed_VII</li>
-		<li>KK_GeneSeed_VIII</li>
-		<li>KK_GeneSeed_IX</li>
-		<li>KK_GeneSeed_X</li>
-		<li>KK_GeneSeed_XI</li>
-		<li>KK_GeneSeed_XII</li>
-		<li>KK_GeneSeed_XIII</li>
-		<li>KK_GeneSeed_XIV</li>
-		<li>KK_GeneSeed_XV</li>
-		<li>KK_GeneSeed_XVI</li>
-		<li>KK_GeneSeed_XVII</li>
-		<li>KK_GeneSeed_XVIII</li>
-		<li>KK_GeneSeed_XIX</li>
-		<li>KK_GeneSeed_XX</li>
+		<li>204_GeneSeed_I</li>
+		<li>204_GeneSeed_II</li>
+		<li>204_GeneSeed_III</li>
+		<li>204_GeneSeed_IV</li>
+		<li>204_GeneSeed_V</li>
+		<li>204_GeneSeed_VI</li>
+		<li>204_GeneSeed_VII</li>
+		<li>204_GeneSeed_VIII</li>
+		<li>204_GeneSeed_IX</li>
+		<li>204_GeneSeed_X</li>
+		<li>204_GeneSeed_XI</li>
+		<li>204_GeneSeed_XII</li>
+		<li>204_GeneSeed_XIII</li>
+		<li>204_GeneSeed_XIV</li>
+		<li>204_GeneSeed_XV</li>
+		<li>204_GeneSeed_XVI</li>
+		<li>204_GeneSeed_XVII</li>
+		<li>204_GeneSeed_XVIII</li>
+		<li>204_GeneSeed_XIX</li>
+		<li>204_GeneSeed_XX</li>
 	</exclusionTags -->
 	
     <displayOrderInCategory>3</displayOrderInCategory>
   </GeneDef>
 
   <!-- 4th - Iron Warriors -->
-  <GeneDef ParentName="KK_GeneGenSeedsBase">
-    <defName>KK_GeneSeed_IV</defName>
+  <GeneDef ParentName="204_GeneGenSeedsBase">
+    <defName>204_GeneSeed_IV</defName>
     <label>Iron Warriors gene-seed</label>
     <labelShortAdj>4th gene-seed</labelShortAdj>
     <description>This gene implants a pawn with the Astartes Gene-Seed of the Iron Warriors.</description>
-	<iconPath>UI/Icons/Genes/KK_GeneSeed_Default</iconPath>
+	<iconPath>UI/Icons/Genes/204_GeneSeed_Default</iconPath>
     <iconColor>(0.29, 0.26, 0.26)</iconColor>
 	
 	<biostatCpx>12</biostatCpx>
@@ -252,38 +252,38 @@
 	<selectionWeight>0</selectionWeight>
 	
 	<!-- exclusionTags>
-		<li>KK_GeneSeed_I</li>
-		<li>KK_GeneSeed_II</li>
-		<li>KK_GeneSeed_III</li>
-		<li>KK_GeneSeed_IV</li>
-		<li>KK_GeneSeed_V</li>
-		<li>KK_GeneSeed_VI</li>
-		<li>KK_GeneSeed_VII</li>
-		<li>KK_GeneSeed_VIII</li>
-		<li>KK_GeneSeed_IX</li>
-		<li>KK_GeneSeed_X</li>
-		<li>KK_GeneSeed_XI</li>
-		<li>KK_GeneSeed_XII</li>
-		<li>KK_GeneSeed_XIII</li>
-		<li>KK_GeneSeed_XIV</li>
-		<li>KK_GeneSeed_XV</li>
-		<li>KK_GeneSeed_XVI</li>
-		<li>KK_GeneSeed_XVII</li>
-		<li>KK_GeneSeed_XVIII</li>
-		<li>KK_GeneSeed_XIX</li>
-		<li>KK_GeneSeed_XX</li>
+		<li>204_GeneSeed_I</li>
+		<li>204_GeneSeed_II</li>
+		<li>204_GeneSeed_III</li>
+		<li>204_GeneSeed_IV</li>
+		<li>204_GeneSeed_V</li>
+		<li>204_GeneSeed_VI</li>
+		<li>204_GeneSeed_VII</li>
+		<li>204_GeneSeed_VIII</li>
+		<li>204_GeneSeed_IX</li>
+		<li>204_GeneSeed_X</li>
+		<li>204_GeneSeed_XI</li>
+		<li>204_GeneSeed_XII</li>
+		<li>204_GeneSeed_XIII</li>
+		<li>204_GeneSeed_XIV</li>
+		<li>204_GeneSeed_XV</li>
+		<li>204_GeneSeed_XVI</li>
+		<li>204_GeneSeed_XVII</li>
+		<li>204_GeneSeed_XVIII</li>
+		<li>204_GeneSeed_XIX</li>
+		<li>204_GeneSeed_XX</li>
 	</exclusionTags -->
 	
     <displayOrderInCategory>4</displayOrderInCategory>
   </GeneDef>
 
   <!-- 5th - White Scars -->
-  <GeneDef ParentName="KK_GeneGenSeedsBase">
-    <defName>KK_GeneSeed_V</defName>
+  <GeneDef ParentName="204_GeneGenSeedsBase">
+    <defName>204_GeneSeed_V</defName>
     <label>White Scars gene-seed</label>
     <labelShortAdj>5th gene-seed</labelShortAdj>
     <description>This gene implants a pawn with the Astartes Gene-Seed of the White Scars.</description>
-	<iconPath>UI/Icons/Genes/KK_GeneSeed_Default</iconPath>
+	<iconPath>UI/Icons/Genes/204_GeneSeed_Default</iconPath>
     <iconColor>(1.0, 1.0, 1.0)</iconColor>
 	
 	<biostatCpx>11</biostatCpx>
@@ -339,38 +339,38 @@
 	<selectionWeight>0</selectionWeight>
 	
 	<!-- exclusionTags>
-		<li>KK_GeneSeed_I</li>
-		<li>KK_GeneSeed_II</li>
-		<li>KK_GeneSeed_III</li>
-		<li>KK_GeneSeed_IV</li>
-		<li>KK_GeneSeed_V</li>
-		<li>KK_GeneSeed_VI</li>
-		<li>KK_GeneSeed_VII</li>
-		<li>KK_GeneSeed_VIII</li>
-		<li>KK_GeneSeed_IX</li>
-		<li>KK_GeneSeed_X</li>
-		<li>KK_GeneSeed_XI</li>
-		<li>KK_GeneSeed_XII</li>
-		<li>KK_GeneSeed_XIII</li>
-		<li>KK_GeneSeed_XIV</li>
-		<li>KK_GeneSeed_XV</li>
-		<li>KK_GeneSeed_XVI</li>
-		<li>KK_GeneSeed_XVII</li>
-		<li>KK_GeneSeed_XVIII</li>
-		<li>KK_GeneSeed_XIX</li>
-		<li>KK_GeneSeed_XX</li>
+		<li>204_GeneSeed_I</li>
+		<li>204_GeneSeed_II</li>
+		<li>204_GeneSeed_III</li>
+		<li>204_GeneSeed_IV</li>
+		<li>204_GeneSeed_V</li>
+		<li>204_GeneSeed_VI</li>
+		<li>204_GeneSeed_VII</li>
+		<li>204_GeneSeed_VIII</li>
+		<li>204_GeneSeed_IX</li>
+		<li>204_GeneSeed_X</li>
+		<li>204_GeneSeed_XI</li>
+		<li>204_GeneSeed_XII</li>
+		<li>204_GeneSeed_XIII</li>
+		<li>204_GeneSeed_XIV</li>
+		<li>204_GeneSeed_XV</li>
+		<li>204_GeneSeed_XVI</li>
+		<li>204_GeneSeed_XVII</li>
+		<li>204_GeneSeed_XVIII</li>
+		<li>204_GeneSeed_XIX</li>
+		<li>204_GeneSeed_XX</li>
 	</exclusionTags -->
 	
     <displayOrderInCategory>5</displayOrderInCategory>
   </GeneDef>
 
   <!-- 6th - Space Wolves -->
-  <GeneDef ParentName="KK_GeneGenSeedsBase">
-    <defName>KK_GeneSeed_VI</defName>
+  <GeneDef ParentName="204_GeneGenSeedsBase">
+    <defName>204_GeneSeed_VI</defName>
     <label>Space Wolves gene-seed</label>
     <labelShortAdj>6th gene-seed</labelShortAdj>
     <description>This gene implants a pawn with the Astartes Gene-Seed of the Space Wolves.</description>
-	<iconPath>UI/Icons/Genes/KK_GeneSeed_Default</iconPath>
+	<iconPath>UI/Icons/Genes/204_GeneSeed_Default</iconPath>
     <iconColor>(0.4, 0.47, 0.51)</iconColor>
 	
 	<biostatCpx>11</biostatCpx>
@@ -426,38 +426,38 @@
 	<selectionWeight>0</selectionWeight>
 	
 	<!-- exclusionTags>
-		<li>KK_GeneSeed_I</li>
-		<li>KK_GeneSeed_II</li>
-		<li>KK_GeneSeed_III</li>
-		<li>KK_GeneSeed_IV</li>
-		<li>KK_GeneSeed_V</li>
-		<li>KK_GeneSeed_VI</li>
-		<li>KK_GeneSeed_VII</li>
-		<li>KK_GeneSeed_VIII</li>
-		<li>KK_GeneSeed_IX</li>
-		<li>KK_GeneSeed_X</li>
-		<li>KK_GeneSeed_XI</li>
-		<li>KK_GeneSeed_XII</li>
-		<li>KK_GeneSeed_XIII</li>
-		<li>KK_GeneSeed_XIV</li>
-		<li>KK_GeneSeed_XV</li>
-		<li>KK_GeneSeed_XVI</li>
-		<li>KK_GeneSeed_XVII</li>
-		<li>KK_GeneSeed_XVIII</li>
-		<li>KK_GeneSeed_XIX</li>
-		<li>KK_GeneSeed_XX</li>
+		<li>204_GeneSeed_I</li>
+		<li>204_GeneSeed_II</li>
+		<li>204_GeneSeed_III</li>
+		<li>204_GeneSeed_IV</li>
+		<li>204_GeneSeed_V</li>
+		<li>204_GeneSeed_VI</li>
+		<li>204_GeneSeed_VII</li>
+		<li>204_GeneSeed_VIII</li>
+		<li>204_GeneSeed_IX</li>
+		<li>204_GeneSeed_X</li>
+		<li>204_GeneSeed_XI</li>
+		<li>204_GeneSeed_XII</li>
+		<li>204_GeneSeed_XIII</li>
+		<li>204_GeneSeed_XIV</li>
+		<li>204_GeneSeed_XV</li>
+		<li>204_GeneSeed_XVI</li>
+		<li>204_GeneSeed_XVII</li>
+		<li>204_GeneSeed_XVIII</li>
+		<li>204_GeneSeed_XIX</li>
+		<li>204_GeneSeed_XX</li>
 	</exclusionTags -->
 	
     <displayOrderInCategory>6</displayOrderInCategory>
   </GeneDef>
 
   <!-- 7th - Imperial Fists -->
-  <GeneDef ParentName="KK_GeneGenSeedsBase">
-    <defName>KK_GeneSeed_VII</defName>
+  <GeneDef ParentName="204_GeneGenSeedsBase">
+    <defName>204_GeneSeed_VII</defName>
     <label>Imperial Fists gene-seed</label>
     <labelShortAdj>7th gene-seed</labelShortAdj>
     <description>This gene implants a pawn with the Astartes Gene-Seed of the Imperial Fists.</description>
-	<iconPath>UI/Icons/Genes/KK_GeneSeed_Default</iconPath>
+	<iconPath>UI/Icons/Genes/204_GeneSeed_Default</iconPath>
     <iconColor>(0.83, 0.69, 0.16)</iconColor>
 	
 	<biostatCpx>12</biostatCpx>
@@ -513,38 +513,38 @@
 	<selectionWeight>0</selectionWeight>
 	
 	<!-- exclusionTags>
-		<li>KK_GeneSeed_I</li>
-		<li>KK_GeneSeed_II</li>
-		<li>KK_GeneSeed_III</li>
-		<li>KK_GeneSeed_IV</li>
-		<li>KK_GeneSeed_V</li>
-		<li>KK_GeneSeed_VI</li>
-		<li>KK_GeneSeed_VII</li>
-		<li>KK_GeneSeed_VIII</li>
-		<li>KK_GeneSeed_IX</li>
-		<li>KK_GeneSeed_X</li>
-		<li>KK_GeneSeed_XI</li>
-		<li>KK_GeneSeed_XII</li>
-		<li>KK_GeneSeed_XIII</li>
-		<li>KK_GeneSeed_XIV</li>
-		<li>KK_GeneSeed_XV</li>
-		<li>KK_GeneSeed_XVI</li>
-		<li>KK_GeneSeed_XVII</li>
-		<li>KK_GeneSeed_XVIII</li>
-		<li>KK_GeneSeed_XIX</li>
-		<li>KK_GeneSeed_XX</li>
+		<li>204_GeneSeed_I</li>
+		<li>204_GeneSeed_II</li>
+		<li>204_GeneSeed_III</li>
+		<li>204_GeneSeed_IV</li>
+		<li>204_GeneSeed_V</li>
+		<li>204_GeneSeed_VI</li>
+		<li>204_GeneSeed_VII</li>
+		<li>204_GeneSeed_VIII</li>
+		<li>204_GeneSeed_IX</li>
+		<li>204_GeneSeed_X</li>
+		<li>204_GeneSeed_XI</li>
+		<li>204_GeneSeed_XII</li>
+		<li>204_GeneSeed_XIII</li>
+		<li>204_GeneSeed_XIV</li>
+		<li>204_GeneSeed_XV</li>
+		<li>204_GeneSeed_XVI</li>
+		<li>204_GeneSeed_XVII</li>
+		<li>204_GeneSeed_XVIII</li>
+		<li>204_GeneSeed_XIX</li>
+		<li>204_GeneSeed_XX</li>
 	</exclusionTags -->
 	
     <displayOrderInCategory>7</displayOrderInCategory>
   </GeneDef>
 
   <!-- 8th - Night Lords -->
-  <GeneDef ParentName="KK_GeneGenSeedsBase">
-    <defName>KK_GeneSeed_VIII</defName>
+  <GeneDef ParentName="204_GeneGenSeedsBase">
+    <defName>204_GeneSeed_VIII</defName>
     <label>Night Lords gene-seed</label>
     <labelShortAdj>8th gene-seed</labelShortAdj>
     <description>This gene implants a pawn with the Astartes Gene-Seed of the Night Lords.</description>
-	<iconPath>UI/Icons/Genes/KK_GeneSeed_Default</iconPath>
+	<iconPath>UI/Icons/Genes/204_GeneSeed_Default</iconPath>
     <iconColor>(0.44, 0.46, 0.58)</iconColor>
 	
 	<biostatCpx>11</biostatCpx>
@@ -599,38 +599,38 @@
 	<selectionWeight>0</selectionWeight>
 	
 	<!-- exclusionTags>
-		<li>KK_GeneSeed_I</li>
-		<li>KK_GeneSeed_II</li>
-		<li>KK_GeneSeed_III</li>
-		<li>KK_GeneSeed_IV</li>
-		<li>KK_GeneSeed_V</li>
-		<li>KK_GeneSeed_VI</li>
-		<li>KK_GeneSeed_VII</li>
-		<li>KK_GeneSeed_VIII</li>
-		<li>KK_GeneSeed_IX</li>
-		<li>KK_GeneSeed_X</li>
-		<li>KK_GeneSeed_XI</li>
-		<li>KK_GeneSeed_XII</li>
-		<li>KK_GeneSeed_XIII</li>
-		<li>KK_GeneSeed_XIV</li>
-		<li>KK_GeneSeed_XV</li>
-		<li>KK_GeneSeed_XVI</li>
-		<li>KK_GeneSeed_XVII</li>
-		<li>KK_GeneSeed_XVIII</li>
-		<li>KK_GeneSeed_XIX</li>
-		<li>KK_GeneSeed_XX</li>
+		<li>204_GeneSeed_I</li>
+		<li>204_GeneSeed_II</li>
+		<li>204_GeneSeed_III</li>
+		<li>204_GeneSeed_IV</li>
+		<li>204_GeneSeed_V</li>
+		<li>204_GeneSeed_VI</li>
+		<li>204_GeneSeed_VII</li>
+		<li>204_GeneSeed_VIII</li>
+		<li>204_GeneSeed_IX</li>
+		<li>204_GeneSeed_X</li>
+		<li>204_GeneSeed_XI</li>
+		<li>204_GeneSeed_XII</li>
+		<li>204_GeneSeed_XIII</li>
+		<li>204_GeneSeed_XIV</li>
+		<li>204_GeneSeed_XV</li>
+		<li>204_GeneSeed_XVI</li>
+		<li>204_GeneSeed_XVII</li>
+		<li>204_GeneSeed_XVIII</li>
+		<li>204_GeneSeed_XIX</li>
+		<li>204_GeneSeed_XX</li>
 	</exclusionTags -->
 	
     <displayOrderInCategory>8</displayOrderInCategory>
   </GeneDef>
 
   <!-- 9th - Blood Angels -->
-  <GeneDef ParentName="KK_GeneGenSeedsBase">
-    <defName>KK_GeneSeed_IX</defName>
+  <GeneDef ParentName="204_GeneGenSeedsBase">
+    <defName>204_GeneSeed_IX</defName>
     <label>Blood Angels gene-seed</label>
     <labelShortAdj>9th gene-seed</labelShortAdj>
     <description>This gene implants a pawn with the Astartes Gene-Seed of the Blood Angels.</description>
-	<iconPath>UI/Icons/Genes/KK_GeneSeed_Default</iconPath>
+	<iconPath>UI/Icons/Genes/204_GeneSeed_Default</iconPath>
     <iconColor>(0.72, 0.19, 0.15)</iconColor>
 	
 	<biostatCpx>11</biostatCpx>
@@ -686,38 +686,38 @@
 	<selectionWeight>0</selectionWeight>
 	
 	<!-- exclusionTags>
-		<li>KK_GeneSeed_I</li>
-		<li>KK_GeneSeed_II</li>
-		<li>KK_GeneSeed_III</li>
-		<li>KK_GeneSeed_IV</li>
-		<li>KK_GeneSeed_V</li>
-		<li>KK_GeneSeed_VI</li>
-		<li>KK_GeneSeed_VII</li>
-		<li>KK_GeneSeed_VIII</li>
-		<li>KK_GeneSeed_IX</li>
-		<li>KK_GeneSeed_X</li>
-		<li>KK_GeneSeed_XI</li>
-		<li>KK_GeneSeed_XII</li>
-		<li>KK_GeneSeed_XIII</li>
-		<li>KK_GeneSeed_XIV</li>
-		<li>KK_GeneSeed_XV</li>
-		<li>KK_GeneSeed_XVI</li>
-		<li>KK_GeneSeed_XVII</li>
-		<li>KK_GeneSeed_XVIII</li>
-		<li>KK_GeneSeed_XIX</li>
-		<li>KK_GeneSeed_XX</li>
+		<li>204_GeneSeed_I</li>
+		<li>204_GeneSeed_II</li>
+		<li>204_GeneSeed_III</li>
+		<li>204_GeneSeed_IV</li>
+		<li>204_GeneSeed_V</li>
+		<li>204_GeneSeed_VI</li>
+		<li>204_GeneSeed_VII</li>
+		<li>204_GeneSeed_VIII</li>
+		<li>204_GeneSeed_IX</li>
+		<li>204_GeneSeed_X</li>
+		<li>204_GeneSeed_XI</li>
+		<li>204_GeneSeed_XII</li>
+		<li>204_GeneSeed_XIII</li>
+		<li>204_GeneSeed_XIV</li>
+		<li>204_GeneSeed_XV</li>
+		<li>204_GeneSeed_XVI</li>
+		<li>204_GeneSeed_XVII</li>
+		<li>204_GeneSeed_XVIII</li>
+		<li>204_GeneSeed_XIX</li>
+		<li>204_GeneSeed_XX</li>
 	</exclusionTags -->
 	
     <displayOrderInCategory>9</displayOrderInCategory>
   </GeneDef>
 
   <!-- 10th - Iron Hands -->
-  <GeneDef ParentName="KK_GeneGenSeedsBase">
-    <defName>KK_GeneSeed_X</defName>
+  <GeneDef ParentName="204_GeneGenSeedsBase">
+    <defName>204_GeneSeed_X</defName>
     <label>Iron Hands gene-seed</label>
     <labelShortAdj>10th gene-seed</labelShortAdj>
     <description>This gene implants a pawn with the Astartes Gene-Seed of the Iron Hands.</description>
-	<iconPath>UI/Icons/Genes/KK_GeneSeed_Default</iconPath>
+	<iconPath>UI/Icons/Genes/204_GeneSeed_Default</iconPath>
     <iconColor>(0.1, 0.1, 0.1)</iconColor>
 	
 	<biostatCpx>11</biostatCpx>
@@ -773,38 +773,38 @@
 	<selectionWeight>0</selectionWeight>
 	
 	<!-- exclusionTags>
-		<li>KK_GeneSeed_I</li>
-		<li>KK_GeneSeed_II</li>
-		<li>KK_GeneSeed_III</li>
-		<li>KK_GeneSeed_IV</li>
-		<li>KK_GeneSeed_V</li>
-		<li>KK_GeneSeed_VI</li>
-		<li>KK_GeneSeed_VII</li>
-		<li>KK_GeneSeed_VIII</li>
-		<li>KK_GeneSeed_IX</li>
-		<li>KK_GeneSeed_X</li>
-		<li>KK_GeneSeed_XI</li>
-		<li>KK_GeneSeed_XII</li>
-		<li>KK_GeneSeed_XIII</li>
-		<li>KK_GeneSeed_XIV</li>
-		<li>KK_GeneSeed_XV</li>
-		<li>KK_GeneSeed_XVI</li>
-		<li>KK_GeneSeed_XVII</li>
-		<li>KK_GeneSeed_XVIII</li>
-		<li>KK_GeneSeed_XIX</li>
-		<li>KK_GeneSeed_XX</li>
+		<li>204_GeneSeed_I</li>
+		<li>204_GeneSeed_II</li>
+		<li>204_GeneSeed_III</li>
+		<li>204_GeneSeed_IV</li>
+		<li>204_GeneSeed_V</li>
+		<li>204_GeneSeed_VI</li>
+		<li>204_GeneSeed_VII</li>
+		<li>204_GeneSeed_VIII</li>
+		<li>204_GeneSeed_IX</li>
+		<li>204_GeneSeed_X</li>
+		<li>204_GeneSeed_XI</li>
+		<li>204_GeneSeed_XII</li>
+		<li>204_GeneSeed_XIII</li>
+		<li>204_GeneSeed_XIV</li>
+		<li>204_GeneSeed_XV</li>
+		<li>204_GeneSeed_XVI</li>
+		<li>204_GeneSeed_XVII</li>
+		<li>204_GeneSeed_XVIII</li>
+		<li>204_GeneSeed_XIX</li>
+		<li>204_GeneSeed_XX</li>
 	</exclusionTags -->
 	
     <displayOrderInCategory>10</displayOrderInCategory>
   </GeneDef>
 
   <!-- 12th - World Eaters -->
-  <GeneDef ParentName="KK_GeneGenSeedsBase">
-    <defName>KK_GeneSeed_XII</defName>
+  <GeneDef ParentName="204_GeneGenSeedsBase">
+    <defName>204_GeneSeed_XII</defName>
     <label>World Eaters gene-seed</label>
     <labelShortAdj>12th gene-seed</labelShortAdj>
     <description>This gene implants a pawn with the Astartes Gene-Seed of the World Eaters.</description>
-	<iconPath>UI/Icons/Genes/KK_GeneSeed_Default</iconPath>
+	<iconPath>UI/Icons/Genes/204_GeneSeed_Default</iconPath>
     <iconColor>(0.28, 0.09, 0.06)</iconColor>
 	
 	<biostatCpx>12</biostatCpx>
@@ -859,38 +859,38 @@
 	<selectionWeight>0</selectionWeight>
 	
 	<!-- exclusionTags>
-		<li>KK_GeneSeed_I</li>
-		<li>KK_GeneSeed_II</li>
-		<li>KK_GeneSeed_III</li>
-		<li>KK_GeneSeed_IV</li>
-		<li>KK_GeneSeed_V</li>
-		<li>KK_GeneSeed_VI</li>
-		<li>KK_GeneSeed_VII</li>
-		<li>KK_GeneSeed_VIII</li>
-		<li>KK_GeneSeed_IX</li>
-		<li>KK_GeneSeed_X</li>
-		<li>KK_GeneSeed_XI</li>
-		<li>KK_GeneSeed_XII</li>
-		<li>KK_GeneSeed_XIII</li>
-		<li>KK_GeneSeed_XIV</li>
-		<li>KK_GeneSeed_XV</li>
-		<li>KK_GeneSeed_XVI</li>
-		<li>KK_GeneSeed_XVII</li>
-		<li>KK_GeneSeed_XVIII</li>
-		<li>KK_GeneSeed_XIX</li>
-		<li>KK_GeneSeed_XX</li>
+		<li>204_GeneSeed_I</li>
+		<li>204_GeneSeed_II</li>
+		<li>204_GeneSeed_III</li>
+		<li>204_GeneSeed_IV</li>
+		<li>204_GeneSeed_V</li>
+		<li>204_GeneSeed_VI</li>
+		<li>204_GeneSeed_VII</li>
+		<li>204_GeneSeed_VIII</li>
+		<li>204_GeneSeed_IX</li>
+		<li>204_GeneSeed_X</li>
+		<li>204_GeneSeed_XI</li>
+		<li>204_GeneSeed_XII</li>
+		<li>204_GeneSeed_XIII</li>
+		<li>204_GeneSeed_XIV</li>
+		<li>204_GeneSeed_XV</li>
+		<li>204_GeneSeed_XVI</li>
+		<li>204_GeneSeed_XVII</li>
+		<li>204_GeneSeed_XVIII</li>
+		<li>204_GeneSeed_XIX</li>
+		<li>204_GeneSeed_XX</li>
 	</exclusionTags -->
 	
     <displayOrderInCategory>12</displayOrderInCategory>
   </GeneDef>
 
   <!-- 13th - Ultramarines -->
-  <GeneDef ParentName="KK_GeneGenSeedsBase">
-    <defName>KK_GeneSeed_XIII</defName>
+  <GeneDef ParentName="204_GeneGenSeedsBase">
+    <defName>204_GeneSeed_XIII</defName>
     <label>Ultramarines gene-seed</label>
     <labelShortAdj>13th gene-seed</labelShortAdj>
     <description>This gene implants a pawn with the Astartes Gene-Seed of the Ultramarines.</description>
-	<iconPath>UI/Icons/Genes/KK_GeneSeed_Default</iconPath>
+	<iconPath>UI/Icons/Genes/204_GeneSeed_Default</iconPath>
     <iconColor>(0.46, 0.49, 0.66)</iconColor>
 	
 	<biostatCpx>11</biostatCpx>
@@ -946,38 +946,38 @@
 	<selectionWeight>0</selectionWeight>
 	
 	<!-- exclusionTags>
-		<li>KK_GeneSeed_I</li>
-		<li>KK_GeneSeed_II</li>
-		<li>KK_GeneSeed_III</li>
-		<li>KK_GeneSeed_IV</li>
-		<li>KK_GeneSeed_V</li>
-		<li>KK_GeneSeed_VI</li>
-		<li>KK_GeneSeed_VII</li>
-		<li>KK_GeneSeed_VIII</li>
-		<li>KK_GeneSeed_IX</li>
-		<li>KK_GeneSeed_X</li>
-		<li>KK_GeneSeed_XI</li>
-		<li>KK_GeneSeed_XII</li>
-		<li>KK_GeneSeed_XIII</li>
-		<li>KK_GeneSeed_XIV</li>
-		<li>KK_GeneSeed_XV</li>
-		<li>KK_GeneSeed_XVI</li>
-		<li>KK_GeneSeed_XVII</li>
-		<li>KK_GeneSeed_XVIII</li>
-		<li>KK_GeneSeed_XIX</li>
-		<li>KK_GeneSeed_XX</li>
+		<li>204_GeneSeed_I</li>
+		<li>204_GeneSeed_II</li>
+		<li>204_GeneSeed_III</li>
+		<li>204_GeneSeed_IV</li>
+		<li>204_GeneSeed_V</li>
+		<li>204_GeneSeed_VI</li>
+		<li>204_GeneSeed_VII</li>
+		<li>204_GeneSeed_VIII</li>
+		<li>204_GeneSeed_IX</li>
+		<li>204_GeneSeed_X</li>
+		<li>204_GeneSeed_XI</li>
+		<li>204_GeneSeed_XII</li>
+		<li>204_GeneSeed_XIII</li>
+		<li>204_GeneSeed_XIV</li>
+		<li>204_GeneSeed_XV</li>
+		<li>204_GeneSeed_XVI</li>
+		<li>204_GeneSeed_XVII</li>
+		<li>204_GeneSeed_XVIII</li>
+		<li>204_GeneSeed_XIX</li>
+		<li>204_GeneSeed_XX</li>
 	</exclusionTags -->
 	
     <displayOrderInCategory>13</displayOrderInCategory>
   </GeneDef>
 
   <!-- 14th - Death Guard -->
-  <GeneDef ParentName="KK_GeneGenSeedsBase">
-    <defName>KK_GeneSeed_XIV</defName>
+  <GeneDef ParentName="204_GeneGenSeedsBase">
+    <defName>204_GeneSeed_XIV</defName>
     <label>Death Guard gene-seed</label>
     <labelShortAdj>14th gene-seed</labelShortAdj>
     <description>This gene implants a pawn with the Astartes Gene-Seed of the Death Guard.</description>
-	<iconPath>UI/Icons/Genes/KK_GeneSeed_Default</iconPath>
+	<iconPath>UI/Icons/Genes/204_GeneSeed_Default</iconPath>
     <iconColor>(0.2, 0.26, 0.11)</iconColor>
 	
 	<biostatCpx>11</biostatCpx>
@@ -1033,38 +1033,38 @@
 	<selectionWeight>0</selectionWeight>
 	
 	<!-- exclusionTags>
-		<li>KK_GeneSeed_I</li>
-		<li>KK_GeneSeed_II</li>
-		<li>KK_GeneSeed_III</li>
-		<li>KK_GeneSeed_IV</li>
-		<li>KK_GeneSeed_V</li>
-		<li>KK_GeneSeed_VI</li>
-		<li>KK_GeneSeed_VII</li>
-		<li>KK_GeneSeed_VIII</li>
-		<li>KK_GeneSeed_IX</li>
-		<li>KK_GeneSeed_X</li>
-		<li>KK_GeneSeed_XI</li>
-		<li>KK_GeneSeed_XII</li>
-		<li>KK_GeneSeed_XIII</li>
-		<li>KK_GeneSeed_XIV</li>
-		<li>KK_GeneSeed_XV</li>
-		<li>KK_GeneSeed_XVI</li>
-		<li>KK_GeneSeed_XVII</li>
-		<li>KK_GeneSeed_XVIII</li>
-		<li>KK_GeneSeed_XIX</li>
-		<li>KK_GeneSeed_XX</li>
+		<li>204_GeneSeed_I</li>
+		<li>204_GeneSeed_II</li>
+		<li>204_GeneSeed_III</li>
+		<li>204_GeneSeed_IV</li>
+		<li>204_GeneSeed_V</li>
+		<li>204_GeneSeed_VI</li>
+		<li>204_GeneSeed_VII</li>
+		<li>204_GeneSeed_VIII</li>
+		<li>204_GeneSeed_IX</li>
+		<li>204_GeneSeed_X</li>
+		<li>204_GeneSeed_XI</li>
+		<li>204_GeneSeed_XII</li>
+		<li>204_GeneSeed_XIII</li>
+		<li>204_GeneSeed_XIV</li>
+		<li>204_GeneSeed_XV</li>
+		<li>204_GeneSeed_XVI</li>
+		<li>204_GeneSeed_XVII</li>
+		<li>204_GeneSeed_XVIII</li>
+		<li>204_GeneSeed_XIX</li>
+		<li>204_GeneSeed_XX</li>
 	</exclusionTags -->
 	
     <displayOrderInCategory>14</displayOrderInCategory>
   </GeneDef>
 
   <!-- 15th - Thousand Sons -->
-  <GeneDef ParentName="KK_GeneGenSeedsBase">
-    <defName>KK_GeneSeed_XV</defName>
+  <GeneDef ParentName="204_GeneGenSeedsBase">
+    <defName>204_GeneSeed_XV</defName>
     <label>Thousand Sons gene-seed</label>
     <labelShortAdj>15th gene-seed</labelShortAdj>
     <description>This gene implants a pawn with the Astartes Gene-Seed of the Thousand Sons.</description>
-	<iconPath>UI/Icons/Genes/KK_GeneSeed_Default</iconPath>
+	<iconPath>UI/Icons/Genes/204_GeneSeed_Default</iconPath>
     <iconColor>(0.12, 0.25, 0.50)</iconColor>
 	
 	<biostatCpx>11</biostatCpx>
@@ -1119,38 +1119,38 @@
 	<selectionWeight>0</selectionWeight>
 	
 	<!-- exclusionTags>
-		<li>KK_GeneSeed_I</li>
-		<li>KK_GeneSeed_II</li>
-		<li>KK_GeneSeed_III</li>
-		<li>KK_GeneSeed_IV</li>
-		<li>KK_GeneSeed_V</li>
-		<li>KK_GeneSeed_VI</li>
-		<li>KK_GeneSeed_VII</li>
-		<li>KK_GeneSeed_VIII</li>
-		<li>KK_GeneSeed_IX</li>
-		<li>KK_GeneSeed_X</li>
-		<li>KK_GeneSeed_XI</li>
-		<li>KK_GeneSeed_XII</li>
-		<li>KK_GeneSeed_XIII</li>
-		<li>KK_GeneSeed_XIV</li>
-		<li>KK_GeneSeed_XV</li>
-		<li>KK_GeneSeed_XVI</li>
-		<li>KK_GeneSeed_XVII</li>
-		<li>KK_GeneSeed_XVIII</li>
-		<li>KK_GeneSeed_XIX</li>
-		<li>KK_GeneSeed_XX</li>
+		<li>204_GeneSeed_I</li>
+		<li>204_GeneSeed_II</li>
+		<li>204_GeneSeed_III</li>
+		<li>204_GeneSeed_IV</li>
+		<li>204_GeneSeed_V</li>
+		<li>204_GeneSeed_VI</li>
+		<li>204_GeneSeed_VII</li>
+		<li>204_GeneSeed_VIII</li>
+		<li>204_GeneSeed_IX</li>
+		<li>204_GeneSeed_X</li>
+		<li>204_GeneSeed_XI</li>
+		<li>204_GeneSeed_XII</li>
+		<li>204_GeneSeed_XIII</li>
+		<li>204_GeneSeed_XIV</li>
+		<li>204_GeneSeed_XV</li>
+		<li>204_GeneSeed_XVI</li>
+		<li>204_GeneSeed_XVII</li>
+		<li>204_GeneSeed_XVIII</li>
+		<li>204_GeneSeed_XIX</li>
+		<li>204_GeneSeed_XX</li>
 	</exclusionTags -->
 	
     <displayOrderInCategory>15</displayOrderInCategory>
   </GeneDef>
 
   <!-- 16th - Sons of Horus -->
-  <GeneDef ParentName="KK_GeneGenSeedsBase">
-    <defName>KK_GeneSeed_XVI</defName>
+  <GeneDef ParentName="204_GeneGenSeedsBase">
+    <defName>204_GeneSeed_XVI</defName>
     <label>Sons of Horus gene-seed</label>
     <labelShortAdj>16th gene-seed</labelShortAdj>
     <description>This gene implants a pawn with the Astartes Gene-Seed of the Sons of Horus.</description>
-	<iconPath>UI/Icons/Genes/KK_GeneSeed_Default</iconPath>
+	<iconPath>UI/Icons/Genes/204_GeneSeed_Default</iconPath>
     <iconColor>(0.6, 0.98, 0.6)</iconColor>
 	
 	<biostatCpx>11</biostatCpx>
@@ -1205,38 +1205,38 @@
 	<selectionWeight>0</selectionWeight>
 	
 	<!-- exclusionTags>
-		<li>KK_GeneSeed_I</li>
-		<li>KK_GeneSeed_II</li>
-		<li>KK_GeneSeed_III</li>
-		<li>KK_GeneSeed_IV</li>
-		<li>KK_GeneSeed_V</li>
-		<li>KK_GeneSeed_VI</li>
-		<li>KK_GeneSeed_VII</li>
-		<li>KK_GeneSeed_VIII</li>
-		<li>KK_GeneSeed_IX</li>
-		<li>KK_GeneSeed_X</li>
-		<li>KK_GeneSeed_XI</li>
-		<li>KK_GeneSeed_XII</li>
-		<li>KK_GeneSeed_XIII</li>
-		<li>KK_GeneSeed_XIV</li>
-		<li>KK_GeneSeed_XV</li>
-		<li>KK_GeneSeed_XVI</li>
-		<li>KK_GeneSeed_XVII</li>
-		<li>KK_GeneSeed_XVIII</li>
-		<li>KK_GeneSeed_XIX</li>
-		<li>KK_GeneSeed_XX</li>
+		<li>204_GeneSeed_I</li>
+		<li>204_GeneSeed_II</li>
+		<li>204_GeneSeed_III</li>
+		<li>204_GeneSeed_IV</li>
+		<li>204_GeneSeed_V</li>
+		<li>204_GeneSeed_VI</li>
+		<li>204_GeneSeed_VII</li>
+		<li>204_GeneSeed_VIII</li>
+		<li>204_GeneSeed_IX</li>
+		<li>204_GeneSeed_X</li>
+		<li>204_GeneSeed_XI</li>
+		<li>204_GeneSeed_XII</li>
+		<li>204_GeneSeed_XIII</li>
+		<li>204_GeneSeed_XIV</li>
+		<li>204_GeneSeed_XV</li>
+		<li>204_GeneSeed_XVI</li>
+		<li>204_GeneSeed_XVII</li>
+		<li>204_GeneSeed_XVIII</li>
+		<li>204_GeneSeed_XIX</li>
+		<li>204_GeneSeed_XX</li>
 	</exclusionTags -->
 	
     <displayOrderInCategory>16</displayOrderInCategory>
   </GeneDef>
 
   <!-- 17th - Word Bearers -->
-  <GeneDef ParentName="KK_GeneGenSeedsBase">
-    <defName>KK_GeneSeed_XVII</defName>
+  <GeneDef ParentName="204_GeneGenSeedsBase">
+    <defName>204_GeneSeed_XVII</defName>
     <label>Word Bearers gene-seed</label>
     <labelShortAdj>17th gene-seed</labelShortAdj>
     <description>This gene implants a pawn with the Astartes Gene-Seed of the Word Bearers.</description>
-	<iconPath>UI/Icons/Genes/KK_GeneSeed_Default</iconPath>
+	<iconPath>UI/Icons/Genes/204_GeneSeed_Default</iconPath>
     <iconColor>(0.58, 0.53, 0.55)</iconColor>
 	
 	<biostatCpx>9</biostatCpx>
@@ -1292,38 +1292,38 @@
 	<selectionWeight>0</selectionWeight>
 	
 	<!-- exclusionTags>
-		<li>KK_GeneSeed_I</li>
-		<li>KK_GeneSeed_II</li>
-		<li>KK_GeneSeed_III</li>
-		<li>KK_GeneSeed_IV</li>
-		<li>KK_GeneSeed_V</li>
-		<li>KK_GeneSeed_VI</li>
-		<li>KK_GeneSeed_VII</li>
-		<li>KK_GeneSeed_VIII</li>
-		<li>KK_GeneSeed_IX</li>
-		<li>KK_GeneSeed_X</li>
-		<li>KK_GeneSeed_XI</li>
-		<li>KK_GeneSeed_XII</li>
-		<li>KK_GeneSeed_XIII</li>
-		<li>KK_GeneSeed_XIV</li>
-		<li>KK_GeneSeed_XV</li>
-		<li>KK_GeneSeed_XVI</li>
-		<li>KK_GeneSeed_XVII</li>
-		<li>KK_GeneSeed_XVIII</li>
-		<li>KK_GeneSeed_XIX</li>
-		<li>KK_GeneSeed_XX</li>
+		<li>204_GeneSeed_I</li>
+		<li>204_GeneSeed_II</li>
+		<li>204_GeneSeed_III</li>
+		<li>204_GeneSeed_IV</li>
+		<li>204_GeneSeed_V</li>
+		<li>204_GeneSeed_VI</li>
+		<li>204_GeneSeed_VII</li>
+		<li>204_GeneSeed_VIII</li>
+		<li>204_GeneSeed_IX</li>
+		<li>204_GeneSeed_X</li>
+		<li>204_GeneSeed_XI</li>
+		<li>204_GeneSeed_XII</li>
+		<li>204_GeneSeed_XIII</li>
+		<li>204_GeneSeed_XIV</li>
+		<li>204_GeneSeed_XV</li>
+		<li>204_GeneSeed_XVI</li>
+		<li>204_GeneSeed_XVII</li>
+		<li>204_GeneSeed_XVIII</li>
+		<li>204_GeneSeed_XIX</li>
+		<li>204_GeneSeed_XX</li>
 	</exclusionTags -->
 	
     <displayOrderInCategory>17</displayOrderInCategory>
   </GeneDef>
 
   <!-- 18th - Salamanders -->
-  <GeneDef ParentName="KK_GeneGenSeedsBase">
-    <defName>KK_GeneSeed_XVIII</defName>
+  <GeneDef ParentName="204_GeneGenSeedsBase">
+    <defName>204_GeneSeed_XVIII</defName>
     <label>Salamanders gene-seed</label>
     <labelShortAdj>18th gene-seed</labelShortAdj>
     <description>This gene implants a pawn with the Astartes Gene-Seed of the Salamanders.</description>
-	<iconPath>UI/Icons/Genes/KK_GeneSeed_Default</iconPath>
+	<iconPath>UI/Icons/Genes/204_GeneSeed_Default</iconPath>
     <iconColor>(0.25, 0.22, 0.22)</iconColor>
 	
 	<biostatCpx>9</biostatCpx>
@@ -1379,38 +1379,38 @@
 	<selectionWeight>0</selectionWeight>
 	
 	<!-- exclusionTags>
-		<li>KK_GeneSeed_I</li>
-		<li>KK_GeneSeed_II</li>
-		<li>KK_GeneSeed_III</li>
-		<li>KK_GeneSeed_IV</li>
-		<li>KK_GeneSeed_V</li>
-		<li>KK_GeneSeed_VI</li>
-		<li>KK_GeneSeed_VII</li>
-		<li>KK_GeneSeed_VIII</li>
-		<li>KK_GeneSeed_IX</li>
-		<li>KK_GeneSeed_X</li>
-		<li>KK_GeneSeed_XI</li>
-		<li>KK_GeneSeed_XII</li>
-		<li>KK_GeneSeed_XIII</li>
-		<li>KK_GeneSeed_XIV</li>
-		<li>KK_GeneSeed_XV</li>
-		<li>KK_GeneSeed_XVI</li>
-		<li>KK_GeneSeed_XVII</li>
-		<li>KK_GeneSeed_XVIII</li>
-		<li>KK_GeneSeed_XIX</li>
-		<li>KK_GeneSeed_XX</li>
+		<li>204_GeneSeed_I</li>
+		<li>204_GeneSeed_II</li>
+		<li>204_GeneSeed_III</li>
+		<li>204_GeneSeed_IV</li>
+		<li>204_GeneSeed_V</li>
+		<li>204_GeneSeed_VI</li>
+		<li>204_GeneSeed_VII</li>
+		<li>204_GeneSeed_VIII</li>
+		<li>204_GeneSeed_IX</li>
+		<li>204_GeneSeed_X</li>
+		<li>204_GeneSeed_XI</li>
+		<li>204_GeneSeed_XII</li>
+		<li>204_GeneSeed_XIII</li>
+		<li>204_GeneSeed_XIV</li>
+		<li>204_GeneSeed_XV</li>
+		<li>204_GeneSeed_XVI</li>
+		<li>204_GeneSeed_XVII</li>
+		<li>204_GeneSeed_XVIII</li>
+		<li>204_GeneSeed_XIX</li>
+		<li>204_GeneSeed_XX</li>
 	</exclusionTags -->
 	
     <displayOrderInCategory>18</displayOrderInCategory>
   </GeneDef>
 
   <!-- 19th - Raven Guard -->
-  <GeneDef ParentName="KK_GeneGenSeedsBase">
-    <defName>KK_GeneSeed_XIX</defName>
+  <GeneDef ParentName="204_GeneGenSeedsBase">
+    <defName>204_GeneSeed_XIX</defName>
     <label>Raven Guard gene-seed</label>
     <labelShortAdj>19th gene-seed</labelShortAdj>
     <description>This gene implants a pawn with the Astartes Gene-Seed of the Raven Guard.</description>
-	<iconPath>UI/Icons/Genes/KK_GeneSeed_Default</iconPath>
+	<iconPath>UI/Icons/Genes/204_GeneSeed_Default</iconPath>
     <iconColor>(0.1, 0.1, 0.1)</iconColor>
 
 	<biostatCpx>11</biostatCpx>
@@ -1465,38 +1465,38 @@
 	<selectionWeight>0</selectionWeight>
 	
 	<!-- exclusionTags>
-		<li>KK_GeneSeed_I</li>
-		<li>KK_GeneSeed_II</li>
-		<li>KK_GeneSeed_III</li>
-		<li>KK_GeneSeed_IV</li>
-		<li>KK_GeneSeed_V</li>
-		<li>KK_GeneSeed_VI</li>
-		<li>KK_GeneSeed_VII</li>
-		<li>KK_GeneSeed_VIII</li>
-		<li>KK_GeneSeed_IX</li>
-		<li>KK_GeneSeed_X</li>
-		<li>KK_GeneSeed_XI</li>
-		<li>KK_GeneSeed_XII</li>
-		<li>KK_GeneSeed_XIII</li>
-		<li>KK_GeneSeed_XIV</li>
-		<li>KK_GeneSeed_XV</li>
-		<li>KK_GeneSeed_XVI</li>
-		<li>KK_GeneSeed_XVII</li>
-		<li>KK_GeneSeed_XVIII</li>
-		<li>KK_GeneSeed_XIX</li>
-		<li>KK_GeneSeed_XX</li>
+		<li>204_GeneSeed_I</li>
+		<li>204_GeneSeed_II</li>
+		<li>204_GeneSeed_III</li>
+		<li>204_GeneSeed_IV</li>
+		<li>204_GeneSeed_V</li>
+		<li>204_GeneSeed_VI</li>
+		<li>204_GeneSeed_VII</li>
+		<li>204_GeneSeed_VIII</li>
+		<li>204_GeneSeed_IX</li>
+		<li>204_GeneSeed_X</li>
+		<li>204_GeneSeed_XI</li>
+		<li>204_GeneSeed_XII</li>
+		<li>204_GeneSeed_XIII</li>
+		<li>204_GeneSeed_XIV</li>
+		<li>204_GeneSeed_XV</li>
+		<li>204_GeneSeed_XVI</li>
+		<li>204_GeneSeed_XVII</li>
+		<li>204_GeneSeed_XVIII</li>
+		<li>204_GeneSeed_XIX</li>
+		<li>204_GeneSeed_XX</li>
 	</exclusionTags -->
 	
     <displayOrderInCategory>19</displayOrderInCategory>
   </GeneDef>
 
   <!-- 20th - Alpha Legion -->
-  <GeneDef ParentName="KK_GeneGenSeedsBase">
-    <defName>KK_GeneSeed_XX</defName>
+  <GeneDef ParentName="204_GeneGenSeedsBase">
+    <defName>204_GeneSeed_XX</defName>
     <label>Alpha Legion gene-seed</label>
     <labelShortAdj>20th gene-seed</labelShortAdj>
     <description>This gene implants a pawn with the Astartes Gene-Seed of the Alpha Legion.</description>
-	<iconPath>UI/Icons/Genes/KK_GeneSeed_Default</iconPath>
+	<iconPath>UI/Icons/Genes/204_GeneSeed_Default</iconPath>
     <iconColor>(0.16, 0.25, 0.33)</iconColor>
 	
 	<biostatCpx>16</biostatCpx>
@@ -1552,26 +1552,26 @@
 	<selectionWeight>0</selectionWeight>
 	
 	<!-- exclusionTags>
-		<li>KK_GeneSeed_I</li>
-		<li>KK_GeneSeed_II</li>
-		<li>KK_GeneSeed_III</li>
-		<li>KK_GeneSeed_IV</li>
-		<li>KK_GeneSeed_V</li>
-		<li>KK_GeneSeed_VI</li>
-		<li>KK_GeneSeed_VII</li>
-		<li>KK_GeneSeed_VIII</li>
-		<li>KK_GeneSeed_IX</li>
-		<li>KK_GeneSeed_X</li>
-		<li>KK_GeneSeed_XI</li>
-		<li>KK_GeneSeed_XII</li>
-		<li>KK_GeneSeed_XIII</li>
-		<li>KK_GeneSeed_XIV</li>
-		<li>KK_GeneSeed_XV</li>
-		<li>KK_GeneSeed_XVI</li>
-		<li>KK_GeneSeed_XVII</li>
-		<li>KK_GeneSeed_XVIII</li>
-		<li>KK_GeneSeed_XIX</li>
-		<li>KK_GeneSeed_XX</li>
+		<li>204_GeneSeed_I</li>
+		<li>204_GeneSeed_II</li>
+		<li>204_GeneSeed_III</li>
+		<li>204_GeneSeed_IV</li>
+		<li>204_GeneSeed_V</li>
+		<li>204_GeneSeed_VI</li>
+		<li>204_GeneSeed_VII</li>
+		<li>204_GeneSeed_VIII</li>
+		<li>204_GeneSeed_IX</li>
+		<li>204_GeneSeed_X</li>
+		<li>204_GeneSeed_XI</li>
+		<li>204_GeneSeed_XII</li>
+		<li>204_GeneSeed_XIII</li>
+		<li>204_GeneSeed_XIV</li>
+		<li>204_GeneSeed_XV</li>
+		<li>204_GeneSeed_XVI</li>
+		<li>204_GeneSeed_XVII</li>
+		<li>204_GeneSeed_XVIII</li>
+		<li>204_GeneSeed_XIX</li>
+		<li>204_GeneSeed_XX</li>
 	</exclusionTags -->
 	
     <displayOrderInCategory>20</displayOrderInCategory>

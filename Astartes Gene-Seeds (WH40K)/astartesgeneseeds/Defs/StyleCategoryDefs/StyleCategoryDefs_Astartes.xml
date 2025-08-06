@@ -2,9 +2,9 @@
 <Defs>
 
   <StyleCategoryDef>
-    <defName>KK_Imperial</defName>
+    <defName>204_Imperial</defName>
     <label>Imperial</label>
-    <iconPath>UI/Structures/KK_ImperialCult</iconPath>
+    <iconPath>UI/Structures/204_ImperialCult</iconPath>
     <soundOngoingRitual>RitualSustainer_Christian</soundOngoingRitual>
     <ritualVisualEffectDef>Christian</ritualVisualEffectDef>
     <thingDefStyles>
@@ -16,9 +16,9 @@
   </StyleCategoryDef>
   
   <StyleCategoryDef>
-    <defName>KK_Chapter</defName>
+    <defName>204_Chapter</defName>
     <label>Chapter</label>
-    <iconPath>UI/Structures/KK_LoyalistChapter</iconPath>
+    <iconPath>UI/Structures/204_LoyalistChapter</iconPath>
     <soundOngoingRitual>RitualSustainer_Christian</soundOngoingRitual>
     <ritualVisualEffectDef>Christian</ritualVisualEffectDef>
     <thingDefStyles>
@@ -30,9 +30,9 @@
   </StyleCategoryDef>
   
   <StyleCategoryDef>
-    <defName>KK_Chaos</defName>
+    <defName>204_Chaos</defName>
     <label>Chaos</label>
-    <iconPath>UI/Structures/KK_ChaosUndivided</iconPath>
+    <iconPath>UI/Structures/204_ChaosUndivided</iconPath>
     <soundOngoingRitual>RitualSustainer_Morbid</soundOngoingRitual>
     <ritualVisualEffectDef>Morbid</ritualVisualEffectDef>
     <thingDefStyles>

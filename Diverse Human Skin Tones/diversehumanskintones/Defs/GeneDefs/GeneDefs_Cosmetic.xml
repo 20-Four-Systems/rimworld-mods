@@ -4,7 +4,7 @@
   <!-- Continental Skin Tones -->
 
   <GeneDef ParentName="GeneSkinColorOverride">
-    <defName>KK_Skin_NorthEurope</defName>
+    <defName>204_Skin_NorthEurope</defName>
     <label>northern european skin</label>
     <labelShortAdj>northern</labelShortAdj>
     <description>This gene changes the skin color of the pawn to resemble a Northern European phenotype.</description>
@@ -14,7 +14,7 @@
   </GeneDef>
   
   <GeneDef ParentName="GeneSkinColorOverride">
-    <defName>KK_Skin_SouthEurope</defName>
+    <defName>204_Skin_SouthEurope</defName>
     <label>southern european skin</label>
     <labelShortAdj>mediterranean</labelShortAdj>
     <description>This gene changes the skin color of the pawn to resemble a Southern European phenotype.</description>
@@ -24,7 +24,7 @@
   </GeneDef>
   
   <GeneDef ParentName="GeneSkinColorOverride">
-    <defName>KK_Skin_WestAsia</defName>
+    <defName>204_Skin_WestAsia</defName>
     <label>west asian skin</label>
     <labelShortAdj>arabian</labelShortAdj>
     <description>This gene changes the skin color of the pawn to resemble a West Asian phenotype.</description>
@@ -34,7 +34,7 @@
   </GeneDef>
   
   <GeneDef ParentName="GeneSkinColorOverride">
-    <defName>KK_Skin_NorthAfrica</defName>
+    <defName>204_Skin_NorthAfrica</defName>
     <label>north african skin</label>
     <labelShortAdj>levantine</labelShortAdj>
     <description>This gene changes the skin color of the pawn to resemble a North African phenotype.</description>
@@ -44,7 +44,7 @@
   </GeneDef>
   
   <GeneDef ParentName="GeneSkinColorOverride">
-    <defName>KK_Skin_SouthAfrica</defName>
+    <defName>204_Skin_SouthAfrica</defName>
     <label>southern african skin</label>
     <labelShortAdj>african</labelShortAdj>
     <description>This gene changes the skin color of the pawn to resemble a Southern African phenotype.</description>
@@ -54,7 +54,7 @@
   </GeneDef>
   
   <GeneDef ParentName="GeneSkinColorOverride">
-    <defName>KK_Skin_EastAsia</defName>
+    <defName>204_Skin_EastAsia</defName>
     <label>east asian skin</label>
     <labelShortAdj>asian</labelShortAdj>
     <description>This gene changes the skin color of the pawn to resemble an East Asian phenotype.</description>
@@ -64,7 +64,7 @@
   </GeneDef>
   
   <GeneDef ParentName="GeneSkinColorOverride">
-    <defName>KK_Skin_SouthAsia</defName>
+    <defName>204_Skin_SouthAsia</defName>
     <label>south asian skin</label>
     <labelShortAdj>indian</labelShortAdj>
     <description>This gene changes the skin color of the pawn to resemble a South Asian phenotype.</description>
@@ -74,7 +74,7 @@
   </GeneDef>
   
   <GeneDef ParentName="GeneSkinColorOverride">
-    <defName>KK_Skin_Polynesia</defName>
+    <defName>204_Skin_Polynesia</defName>
     <label>polynesian skin</label>
     <labelShortAdj>polynesian</labelShortAdj>
     <description>This gene changes the skin color of the pawn to resemble a Polynesian phenotype.</description>

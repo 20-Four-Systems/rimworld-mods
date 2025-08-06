@@ -7,7 +7,7 @@
     <label>imperial origin</label>
     <description>This is a variant of the embodied theist structure. This ideoligion is a variation of the Imperial Cult. It may have very different precepts than those of normal worship of the God-Emperor, but its symbols are similar.</description>
     <category>Structure</category>
-    <iconPath>UI/Structures/KK_ImperialCult</iconPath>
+    <iconPath>UI/Structures/204_ImperialCult</iconPath>
     <impact>0</impact>
 
     <deityNameMakerOverride>DietyNameImperial</deityNameMakerOverride>
@@ -48,7 +48,7 @@
     </symbolPacks>
     <thingStyleCategories>
       <li>
-        <category>KK_Imperial</category>
+        <category>204_Imperial</category>
         <priority>99</priority>
       </li>
     </thingStyleCategories>
@@ -60,7 +60,7 @@
     <label>loyalist chapter</label>
     <description>The only truth is in the wisdom of our Primarch. The only good is through the direction of our Chapter.</description>
     <category>Structure</category>
-    <iconPath>UI/Structures/KK_LoyalistChapter</iconPath>
+    <iconPath>UI/Structures/204_LoyalistChapter</iconPath>
     <impact>0</impact>
 
     <deityNameMakerOverride>DietyNameImperial</deityNameMakerOverride>
@@ -96,11 +96,11 @@
     </symbolPacks>
     <thingStyleCategories>
       <li>
-        <category>KK_Imperial</category>
+        <category>204_Imperial</category>
         <priority>99</priority>
       </li>
       <li>
-        <category>KK_Chapter</category>
+        <category>204_Chapter</category>
         <priority>99</priority>
       </li>
     </thingStyleCategories>
@@ -140,7 +140,7 @@
     <label>chaos origin</label>
     <description>This is a variant of the embodied theist structure. This ideoligion is a variation of Chaos Undivided. It may have very different precepts than those of normal worship of the Ruinous Powers, but its symbols are similar.</description>
     <category>Structure</category>
-    <iconPath>UI/Structures/KK_ChaosUndivided</iconPath>
+    <iconPath>UI/Structures/204_ChaosUndivided</iconPath>
     <impact>0</impact>
 	
     <worshipRoomLabel>temple</worshipRoomLabel>
@@ -189,7 +189,7 @@
 
     <thingStyleCategories>
       <li>
-        <category>KK_Chaos</category>
+        <category>204_Chaos</category>
         <priority>99</priority>
       </li>
     </thingStyleCategories>
@@ -201,7 +201,7 @@
     <label>traitor chapter</label>
     <description>The only truth is in the strength of our Primarch. There is no good - only power; and power is found in our Chapter.</description>
     <category>Structure</category>
-    <iconPath>UI/Structures/KK_TraitorChapter</iconPath>
+    <iconPath>UI/Structures/204_TraitorChapter</iconPath>
     <impact>0</impact>
 
     <worshipRoomLabel>temple</worshipRoomLabel>
@@ -242,11 +242,11 @@
 
     <thingStyleCategories>
       <li>
-        <category>KK_Chaos</category>
+        <category>204_Chaos</category>
         <priority>99</priority>
       </li>
       <li>
-        <category>KK_Chapter</category>
+        <category>204_Chapter</category>
         <priority>99</priority>
       </li>
     </thingStyleCategories>
