@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+
+  <!--=====================================================================-->
+  <!--=============================== Eggs ================================-->
+  <!--=====================================================================-->
+
+  <!-- Chao -->
+  <ThingDef ParentName="EggUnfertBase">
+    <defName>EggChaoUnfertilized</defName>
+    <label>Chao egg (unfert.)</label>
+    <description>An unfertilized Chao egg.</description>
+    <graphicData>
+      <color>(235,255,235)</color>
+      <drawSize>1.0</drawSize>
+    </graphicData>
+    <statBases>
+      <MarketValue>2.0</MarketValue>
+    </statBases>
+  </ThingDef>
+
+  <!-- Chao -->
+ <ThingDef ParentName="EggFertBase">
+   <defName>EggChaoFertilized</defName>
+   <label>Chao egg (fert.)</label>
+   <description>A fertilized Chao egg.</description>
+   <graphicData>
+     <texPath>Things/Item/Resource/AnimalProductRaw/EggOval</texPath>
+     <color>(235,255,235)</color>
+     <drawSize>1.0</drawSize>
+   </graphicData>
+   <statBases>
+     <MarketValue>8.0</MarketValue>
+   </statBases>
+   <comps>
+     <li Class="CompProperties_Hatcher">
+       <hatcherDaystoHatch>4.5</hatcherDaystoHatch>
+       <hatcherPawn>Chao</hatcherPawn>
+     </li>
+   </comps>
+ </ThingDef>
+
+</Defs>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Chao.label>Chao</Chao.label>
+  <Chao.description>A common type of Chao - gentle and cute.</Chao.description>
+  <Chao_Leather.label>Chao leather</Chao_Leather.label>
+  <Chao_Leather.description>The leather of a Chao.</Chao_Leather.description>
+  <Chao_Leather.stuffProps.stuffAdjective>chaoleather</Chao_Leather.stuffProps.stuffAdjective>
+  <Chao_Meat.label>Chao meat</Chao_Meat.label>
+  <Chao_Meat.description>The meat of a Chao.</Chao_Meat.description>
+  <Chao_Corpse.label>Dead Chao</Chao_Corpse.label>
+  <Chao_Corpse.description>The corpse of a Chao.</Chao_Corpse.description>
+
+</LanguageData>

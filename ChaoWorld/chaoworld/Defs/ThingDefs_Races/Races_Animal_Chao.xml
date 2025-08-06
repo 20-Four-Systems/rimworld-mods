@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<!-- Chao -->
+	<ThingDef ParentName="AnimalThingBase" ADogSaidBody="LegsTail">
+		<defName>Chao</defName>
+		<label>chao</label>
+		<description>Chao.</description>
+		<statBases>
+			<MoveSpeed>1.2</MoveSpeed>
+			<MarketValue>500</MarketValue>
+			<ComfyTemperatureMin>16</ComfyTemperatureMin>
+			<ComfyTemperatureMax>26</ComfyTemperatureMax>
+			<FilthRate>0.1</FilthRate>
+		</statBases>
+		<tools>
+			<li>
+				<label>left fist</label>
+				<labelNoLocation>fist</labelNoLocation>
+				<capacities>
+					<li>Blunt</li>
+				</capacities>
+				<power>8.2</power>
+				<cooldownTime>2</cooldownTime>
+				<linkedBodyPartsGroup>LeftHand</linkedBodyPartsGroup>
+				<surpriseAttack>
+					<extraMeleeDamages>
+						<li>
+							<def>Stun</def>
+							<amount>14</amount>
+						</li>
+					</extraMeleeDamages>
+				</surpriseAttack>
+			</li>
+			<li>
+				<label>right fist</label>
+				<labelNoLocation>fist</labelNoLocation>
+				<capacities>
+					<li>Blunt</li>
+				</capacities>
+				<power>8.2</power>
+				<cooldownTime>2</cooldownTime>
+				<linkedBodyPartsGroup>RightHand</linkedBodyPartsGroup>
+				<surpriseAttack>
+					<extraMeleeDamages>
+						<li>
+							<def>Stun</def>
+							<amount>14</amount>
+						</li>
+					</extraMeleeDamages>
+				</surpriseAttack>
+			</li>
+			<li>
+				<label>teeth</label>
+				<capacities>
+					<li>Bite</li>
+				</capacities>
+				<power>8.2</power>
+				<cooldownTime>2</cooldownTime>
+				<linkedBodyPartsGroup>Teeth</linkedBodyPartsGroup>
+				<chanceFactor>0.07</chanceFactor>
+				<soundMeleeHit>Pawn_Melee_HumanBite_Hit</soundMeleeHit>
+				<soundMeleeMiss>Pawn_Melee_HumanBite_Miss</soundMeleeMiss>
+			</li>
+			<li>
+				<label>head</label>
+				<capacities>
+					<li>Blunt</li>
+				</capacities>
+				<power>5</power>
+				<cooldownTime>2</cooldownTime>
+				<linkedBodyPartsGroup>HeadAttackTool</linkedBodyPartsGroup>
+				<ensureLinkedBodyPartsGroupAlwaysUsable>true</ensureLinkedBodyPartsGroupAlwaysUsable>
+				<chanceFactor>0.2</chanceFactor>
+			</li>
+		</tools>
+		<comps>
+			<li Class="CompProperties_EggLayer">
+				<eggUnfertilizedDef>EggChaoUnfertilized</eggUnfertilizedDef>
+				<eggFertilizedDef>EggChaoFertilized</eggFertilizedDef>
+				<eggFertilizationCountMax>3</eggFertilizationCountMax>
+				<eggLayIntervalDays>14.5</eggLayIntervalDays>
+				<eggCountRange>
+					<min>1</min>
+					<max>1</max>
+				</eggCountRange>
+			</li>
+		</comps>
+		<race>
+			<body>QuadrupedAnimalWithPaws</body>
+			<herdAnimal>true</herdAnimal>
+			<predator>false</predator>
+			<petness>0.45</petness>
+			<baseBodySize>1.0</baseBodySize>
+			<baseHealthScale>0.4</baseHealthScale>
+			<baseHungerRate>0.05</baseHungerRate>
+			<foodType>VegetarianRoughAnimal</foodType>
+			<leatherDef>Leather_Human</leatherDef>
+			<wildness>0.15</wildness>
+			<trainability>None</trainability>
+			<lifeExpectancy>4</lifeExpectancy>
+			<manhunterOnDamageChance>0.005</manhunterOnDamageChance>
+			<manhunterOnTameFailChance>0.0075</manhunterOnTameFailChance>
+			<wildBiomes>
+				<TropicalRainforest>0.075</TropicalRainforest>
+				<TemperateForest>0.1</TemperateForest>
+				<BorealForest>0.075</BorealForest>
+				<Tundra>0.05</Tundra>
+			</wildBiomes>
+			<lifeStageAges>
+				<li>
+				  <def>AnimalBaby</def>
+				  <minAge>0</minAge>
+				</li>
+				<li>
+					<def>AnimalJuvenile</def>
+					<minAge>0.5</minAge>
+				</li>
+				<li>
+					<def>AnimalAdult</def>
+					<minAge>1.0</minAge>
+					<soundCall>Pawn_Chao_Call</soundCall>
+					<soundWounded>Pawn_Chao_Wounded</soundWounded>
+					<soundDeath>Pawn_Chao_Wounded</soundDeath>
+					<soundAngry>Pawn_Chao_Angry</soundAngry>
+				</li>
+			</lifeStageAges>
+			<soundMeleeHitPawn>Pawn_Melee_SmallScratch_HitPawn</soundMeleeHitPawn>
+			<soundMeleeHitBuilding>Pawn_Melee_SmallScratch_HitBuilding</soundMeleeHitBuilding>
+			<soundMeleeMiss>Pawn_Melee_SmallScratch_Miss</soundMeleeMiss>
+		</race>
+		<tradeTags>
+			<li>StandardAnimal</li>
+		</tradeTags>
+	</ThingDef>
+	
+	<!-- Regular Chao -->
+	<PawnKindDef ParentName="AnimalKindBase">
+		<defName>Chao</defName>
+		<label>chao</label>
+		<race>Chao</race>
+		<combatPower>2</combatPower>
+		<ecoSystemWeight>0.4</ecoSystemWeight>
+		<lifeStages>
+			<!-- Young -->
+			<li>
+				<bodyGraphicData>
+				  <texPath>Things/Pawn/Animal/Chao/Adult/Chao</texPath>
+				  <drawSize>0.8</drawSize>
+				</bodyGraphicData>
+				<dessicatedBodyGraphicData>
+				  <texPath>Things/Pawn/Animal/Dessicated/Dessicated_Chao</texPath>
+				  <drawSize>0.9</drawSize>
+				</dessicatedBodyGraphicData>
+			</li>
+			<!-- Juvenile -->
+			<li>
+				<bodyGraphicData>
+				  <texPath>Things/Pawn/Animal/Chao/Adult/Chao</texPath>
+				  <drawSize>0.95</drawSize>
+				  <shadowData>
+					<volume>(0.25, 0.3, 0.25)</volume>
+					<offset>(0,0,-0.15)</offset>
+				  </shadowData>
+				</bodyGraphicData>
+				<dessicatedBodyGraphicData>
+				  <texPath>Things/Pawn/Animal/Dessicated/Dessicated_Chao</texPath>
+				  <drawSize>1.0</drawSize>
+				</dessicatedBodyGraphicData>
+			</li>
+			<!--  Adult -->
+			<li>
+				<bodyGraphicData>
+				  <texPath>Things/Pawn/Animal/Chao/Adult/Chao</texPath>
+				  <drawSize>1.05</drawSize>
+				  <shadowData>
+					<volume>(0.25, 0.3, 0.25)</volume>
+					<offset>(0,0,-0.15)</offset>
+				  </shadowData>
+				</bodyGraphicData>
+				<dessicatedBodyGraphicData>
+				  <texPath>Things/Pawn/Animal/Dessicated/Dessicated_Chao</texPath>
+				  <drawSize>1.1</drawSize>
+				</dessicatedBodyGraphicData>
+			</li>
+		</lifeStages>
+	</PawnKindDef>
+
+</Defs>
