@@ -5,7 +5,9 @@
   <packageId>204Sys.astartesgeneseeds</packageId>
   <url></url>
   <supportedVersions>
-    <li>1.5</li>
+  	<li>1.4</li>
+	<li>1.5</li>
+	<li>1.6</li>
   </supportedVersions>
   <modDependencies>
     <li>
@@ -14,14 +16,18 @@
       <downloadUrl>https://github.com/20-Four-Systems/rimworld-mods/tree/master/Diverse%20Human%20Skin%20Tones</downloadUrl>
     </li>
   </modDependencies>
-  <description>As the Horus Heresy rages across the galaxy, the Legions of the Imperium crashland on the Rim. Play out your own scenario as you take Loyalist against Traitor for the fate of all reality. Declare your alleigence by playing a Legion, or make your own Legion with your choice of Astartes Gene-Seed.
+  <description>As the Horus Heresy rages across the galaxy, the Legions of the Imperium arrive on the Rim.
+
+Play out your own scenario as you take Loyalist against Traitor for the fate of all reality.
+
+Declare your allegiance by playing a Legion, or make your own Legion with your choice of Astartes Gene-Seed.
 
 Let the die be cast.
 
 Codex release (v1.1)
 - Added 4 preset Ideoligions; Imperial cult, Chaos cult, Loyalist chapter and Traitor chapter.
 - Added 3 Ideoligion structures; Imperial, Chaos and Chapter.
-- Added 3 Ideligion styles; Imperial, Chaos and Chapter.
+- Added 3 Ideoligion styles; Imperial, Chaos and Chapter.
 - Added 1 weapon style; Chapter style Charge Rifle (Lasgun).
 - Added 2 Ideogram styles; Imperial and Chaos.
 - Minor fixes and updates.
