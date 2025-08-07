@@ -1,6 +1,6 @@
 # Diverse Human Skin Tones
 
-![alt text](https://raw.githubusercontent.com/20-Four-Systems/rimworld-mods/master/images/diversehumanskintones.png)
+![Diverse Human Skin Tones mod art](https://raw.githubusercontent.com/20-Four-Systems/rimworld-mods/master/images/diversehumanskintones.png)
 
 *Adds unique entries for all real world continental human skin tones.*
 
