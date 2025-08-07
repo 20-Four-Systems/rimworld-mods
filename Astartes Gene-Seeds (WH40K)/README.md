@@ -1,16 +1,10 @@
 # Astartes Gene-Seeds (WH40K)
 
 As the Horus Heresy rages across the galaxy, the Legions of the Imperium arrive on the Rim.
-Play out your own scenario as you take Loyalist against Traitor for the fate of all reality.
-Declare your allegiance by playing a Legion, or make your own Legion with your choice of Astartes Gene-Seed.
 
-Let the die be cast.
+Play out your own scenario as you take Loyalist against Traitor for the fate of all reality. Declare your allegiance by playing a Legion, or make your own Legion with your choice of Astartes Gene-Seed. Let the die be cast.
 
-*For Rimworld 1.6*
-
-*For Rimworld 1.5*
-
-*For Rimworld 1.4*
+*For Rimworld 1.6* // *For Rimworld 1.5* // *For Rimworld 1.4*
 
 ## Changelog
 
