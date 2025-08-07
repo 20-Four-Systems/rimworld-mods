@@ -6,7 +6,6 @@
 
 *For RimWorld 1.6* // *RimWorld 1.5* // *RimWorld 1.4*
 
-
 ## Changelog
 
 <details open>
