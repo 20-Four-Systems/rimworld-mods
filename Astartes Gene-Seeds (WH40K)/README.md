@@ -7,15 +7,19 @@ Declare your allegiance by playing a Legion, or make your own Legion with your c
 Let the die be cast.
 
 *For Rimworld 1.6*
+
 *For Rimworld 1.5*
+
 *For Rimworld 1.4*
 
 ## Changelog
 
 <details open>
-	<summary>Brotherhood release (v1.2)</summary>
+	<summary>Archcanon update (v1.1.1)</summary>
 
-- Renamed 'adeptus astartes' to 'astartes'.
+- All 18 Xenotypes updated for more canonical skin variants.
+- Renamed 'Adeptus astartes' to 'Astartes'.
+- Updated prefix tags from "KK_" to "204_".
 
 </details>
 
