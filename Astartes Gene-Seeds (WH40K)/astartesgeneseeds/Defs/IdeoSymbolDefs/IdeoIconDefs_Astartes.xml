@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <IdeoIconDef>
+    <defName>Astartes_XVa</defName>
+    <iconPath>UI/Ideoligions/Astartes/Astartes_XVa</iconPath>
+    <memes>
+      <li>Rancher</li>
+    </memes>
+  </IdeoIconDef>
+
+</Defs>
