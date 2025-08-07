@@ -2,8 +2,11 @@
 Adds unique entries for all real world continental human skin tones.
 
 *For Rimworld 1.6*
+
 *For Rimworld 1.5*
+
 *For Rimworld 1.4*
+
 
 ## Changelog
 
