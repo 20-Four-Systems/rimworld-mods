@@ -1,6 +1,6 @@
 # RimWorld Mods
 
-![204 RimWorld mods logo](https://raw.githubusercontent.com/20-Four-Systems/rimworld-mods/master/images/204-rimworld.png)
+![204 RimWorld mods logo](https://raw.githubusercontent.com/20-Four-Systems/rimworld-mods/master/images/204rimworld.png)
 
 Full list of assorted mods for RimWorld.
 
