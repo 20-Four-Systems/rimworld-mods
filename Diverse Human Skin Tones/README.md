@@ -1,5 +1,5 @@
 # Diverse Human Skin Tones
-Adds unique entries for all real world continental human skin tones. No changes are made to the default Rimworld melanin system, which remains in place. Build your galactic Middle Kingdom or a village of raging Norseman - the Rim is the limit!
+Adds unique entries for all real world continental human skin tones.
 
 *For Rimworld 1.6*
 *For Rimworld 1.5*

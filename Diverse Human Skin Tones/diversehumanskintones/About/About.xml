@@ -3,13 +3,15 @@
   <name>Diverse Human Skin Tones</name>
   <author>20-Four Systems</author>
   <packageId>204Sys.diversehumanskintones</packageId>
-  <url></url>
+  <url>https://github.com/20-Four-Systems/rimworld-mods</url>
   <supportedVersions>
 	<li>1.4</li>
 	<li>1.5</li>
 	<li>1.6</li>
   </supportedVersions>
-  <description>Adds unique entries for all real world continental human skin tones. No changes are made to the default Rimworld melanin system, which remains in place. Build your galactic Middle Kingdom or a village of raging Norseman - the Rim is the limit!
+  <description>Adds unique entries for all real world continental human skin tones.
+
+No changes are made to the default Rimworld melanin system, which remains in place. Build your galactic Middle Kingdom or a village of raging Norseman - the Rim is the limit!
 
 Maori release (v1.1)
 - Added an additional real world skin colour - Polynesian, for a total of 8.

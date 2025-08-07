@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+<!-- <TraitDef>
+	<defName>NaturalLeader</defName>
+	<commonality>0.01</commonality>
+	<degreeDatas>
+		<li>
+			<label>natural leader</label>
+			<description>{PAWN_nameDef} is inspiring to everyone around him, making him the perfect head of the base.  </description>
+			<skillGains>
+			<Social>4</Social>
+        	</skillGains>
+		</li>
+	</degreeDatas>
+</TraitDef> -->
+
+	<TraitDef>
+	
+		<defName>204_Sun_Taurus</defName>
+		<commonality>1</commonality>
+		<degreeDatas>
+			<li>
+				<label>taurean</label>
+				<description>{PAWN_nameDef} is born under the sign of the bull.</description>
+				<skillGains></skillGains>
+			</li>
+		</degreeDatas>
+	</TraitDef>
+</Defs>
