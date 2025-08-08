@@ -40,6 +40,44 @@
 					<Intellectual>4</Intellectual>
 				</skillGains>
 				<statOffsets></statOffsets>
+				
+				<statFactors>
+					<CertaintyLossFactor MayRequire="Ludeon.RimWorld.Ideology">0.5</CertaintyLossFactor>
+				</statFactors>
+			</li>    
+		</degreeDatas>
+	</TraitDef>
+	
+	<!-- Thousand Sons -->
+	<TraitDef>
+		<defName>204_ThousandSons</defName>
+		<commonality>0</commonality>
+		<degreeDatas>
+			<li>
+				<label>son of magnus</label>
+				<description>[PAWN_nameDef] is a gene-son of Magnus the Red.</description>
+				<!-- degree>1</degree -->
+				
+				<!-- XV Passions -->
+				<forcedPassions>Intellectual</forcedPassions>
+				
+				<!--- XV Skills -->
+				<skillGains>
+					<Intellectual>8</Intellectual>
+					<Mining>-4</Mining>
+					<Plants>-4</Plants>
+				</skillGains>
+				
+				<!-- XV Stats -->
+				<statOffsets>
+					<GlobalLearningFactor>0.50</GlobalLearningFactor>
+					<MentalBreakThreshold>0.09</MentalBreakThreshold>
+				</statOffsets>
+				
+				<!-- XV Possessions -->
+				<possessions>
+					<PsychicAmplifier />
+				</possessions>
 			</li>    
 		</degreeDatas>
 	</TraitDef>

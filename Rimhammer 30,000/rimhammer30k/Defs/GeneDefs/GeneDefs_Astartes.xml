@@ -1062,7 +1062,7 @@
   <GeneDef ParentName="204_GeneGenSeedsBase">
     <defName>204_GeneSeed_XV</defName>
     <label>Thousand Sons gene-seed</label>
-    <labelShortAdj>15th gene-seed</labelShortAdj>
+    <labelShortAdj>XVth gene-seed</labelShortAdj>
     <description>This gene implants a pawn with the Astartes Gene-Seed of the Thousand Sons.</description>
 	<iconPath>UI/Icons/Genes/204_GeneSeed_Default</iconPath>
     <iconColor>(0.12, 0.25, 0.50)</iconColor>
@@ -1112,7 +1112,7 @@
 			<def>204_Astartes</def>
 		</li>
 		<li>
-			<def>TooSmart</def>
+			<def>204_ThousandSons</def>
 		</li>
 	</forcedTraits>
 

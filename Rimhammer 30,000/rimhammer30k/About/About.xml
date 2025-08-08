@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-  <name>Astartes Gene-Seeds (WH40K)</name>
+  <name>Rimhammer 30,000</name>
   <author>20-Four Systems</author>
-  <packageId>204Sys.astartesgeneseeds</packageId>
+  <packageId>204Sys.rimhammer30k</packageId>
   <url></url>
   <supportedVersions>
   	<li>1.4</li>
@@ -16,11 +16,11 @@
       <downloadUrl>https://github.com/20-Four-Systems/rimworld-mods/tree/master/Diverse%20Human%20Skin%20Tones</downloadUrl>
     </li>
   </modDependencies>
-  <description>As the Horus Heresy rages across the galaxy, the Legions of the Imperium arrive on the Rim.
+  <description>As the Horus Heresy rages across the galaxy, the forces of the Imperium arrive on the Rim.
 
 Play out your own scenario as you take Loyalist against Traitor for the fate of all reality.
 
-Declare your allegiance by playing a Legion, or make your own Legion with your choice of Astartes Gene-Seed.
+Declare your allegiance by playing a Legion, or make your own Legion with your choice of gene-seed.
 
 Let the die be cast.
 

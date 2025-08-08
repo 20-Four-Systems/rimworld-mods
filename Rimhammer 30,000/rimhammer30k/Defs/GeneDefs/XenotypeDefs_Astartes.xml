@@ -377,16 +377,7 @@
 			<li>Body_Hulk</li>
 			<li>204_Skin_NorthEurope</li>
 			<li>204_Skin_SouthEurope</li>
-
-			<!-- 2/-2 Aptitude -->
-			<li>AptitudeRemarkable_Intellectual</li>
-			<li>AptitudePoor_Plants</li>
-			<li>AptitudePoor_Mining</li>
-
-			<!-- 3 Uniques -->
-			<li>Aggression_DeadCalm</li>
-			<li>PsychicAbility_Extreme</li>
-			<li>Instability_Major</li>
+			<li>204_Skin_NorthAfrica</li>
 		</genes>
 	</XenotypeDef>
 
