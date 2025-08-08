@@ -1,22 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-  <name>Rimhammer 30,000</name>
-  <author>20-Four Systems</author>
-  <packageId>204Sys.rimhammer30k</packageId>
-  <url></url>
-  <supportedVersions>
-  	<li>1.4</li>
-	<li>1.5</li>
-	<li>1.6</li>
-  </supportedVersions>
-  <modDependencies>
-    <li>
-      <packageId>204Sys.diversehumanskintones</packageId>
-      <displayName>Diverse Human Skin Tones</displayName>
-      <downloadUrl>https://github.com/20-Four-Systems/rimworld-mods/tree/master/Diverse%20Human%20Skin%20Tones</downloadUrl>
-    </li>
-  </modDependencies>
-  <description>As the Horus Heresy rages across the galaxy, the forces of the Imperium arrive on the Rim.
+	<name>Rimhammer 30,000 Framework</name>
+	<author>20-Four Systems</author>
+	<packageId>204Sys.rimhammer30k</packageId>
+	<url></url>
+	<supportedVersions>
+		<li>1.4</li>
+		<li>1.5</li>
+		<li>1.6</li>
+	</supportedVersions>
+	<modDependencies></modDependencies>
+	<description>As the Horus Heresy rages across the galaxy, the forces of the Imperium arrive on the Rim.
 
 Play out your own scenario as you take Loyalist against Traitor for the fate of all reality.
 
@@ -31,5 +25,5 @@ Codex release (v1.1)
 - Added 1 weapon style; Chapter style Charge Rifle (Lasgun).
 - Added 2 Ideogram styles; Imperial and Chaos.
 - Minor fixes and updates.
-</description>
+	</description>
 </ModMetaData>

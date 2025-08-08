@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Rimhammer 30,000: Prospero Burns</name>
+	<author>20-Four Systems</author>
+	<packageId>204Sys.rimhammer30kprospero1</packageId>
+	<url></url>
+	<supportedVersions>
+		<li>1.4</li>
+		<li>1.5</li>
+		<li>1.6</li>
+	</supportedVersions>
+	<modDependencies>
+		<li>
+			<packageId>204Sys.rimhammer30k</packageId>
+			<displayName>Rimhammer 30,000 Framework</displayName>
+			<downloadUrl></downloadUrl>
+		</li>
+		<li>
+			<packageId>204Sys.diversehumanskintones</packageId>
+			<displayName>Diverse Human Skin Tones</displayName>
+			<downloadUrl>https://github.com/20-Four-Systems/rimworld-mods/tree/master/Diverse%20Human%20Skin%20Tones</downloadUrl>
+		</li>
+	</modDependencies>
+	<description></description>
+</ModMetaData>
