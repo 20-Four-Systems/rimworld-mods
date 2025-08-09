@@ -61,7 +61,7 @@ Contains:
 
 # Rimhammer 30,000 - Prospero Burns
 
-![Rimhammer 30k - Prospero Burns mod logo](https://raw.githubusercontent.com/20-Four-Systems/rimworld-mods/master/images/rimhammer30kprospero1.png)
+![Rimhammer 30,000 - Prospero Burns mod logo](https://raw.githubusercontent.com/20-Four-Systems/rimworld-mods/master/images/rimhammer30kprospero1.png)
 
 The Great Ocean holds many mysteries. Despite this, much has been learned by the Thousand Sons, beloved sons of Magnus, who endeavour to understand it.
 
