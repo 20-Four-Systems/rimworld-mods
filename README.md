@@ -11,7 +11,7 @@ Full list of assorted mods for RimWorld.
 
 *Rimhammer 30,000*
 
-*Rimhammer 30,000 = Prospero Burns*
+*Rimhammer 30,000 - Prospero Burns*
 
 ### Planned
 
