@@ -6,7 +6,7 @@ Adds unique entries for all real world continental human skin tones.
 
 *For RimWorld 1.6* // *RimWorld 1.5* // *RimWorld 1.4*
 
-## Changelog
+### Changelog
 
 <details>
 	<summary>Maori release (v1.1)</summary>
