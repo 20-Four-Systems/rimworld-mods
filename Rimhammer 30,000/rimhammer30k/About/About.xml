@@ -10,20 +10,5 @@
 		<li>1.6</li>
 	</supportedVersions>
 	<modDependencies></modDependencies>
-	<description>As the Horus Heresy rages across the galaxy, the forces of the Imperium arrive on the Rim.
-
-Play out your own scenario as you take Loyalist against Traitor for the fate of all reality.
-
-Declare your allegiance by playing a Legion, or make your own Legion with your choice of gene-seed.
-
-Let the die be cast.
-
-Codex release (v1.1)
-- Added 4 preset Ideoligions; Imperial cult, Chaos cult, Loyalist chapter and Traitor chapter.
-- Added 3 Ideoligion structures; Imperial, Chaos and Chapter.
-- Added 3 Ideoligion styles; Imperial, Chaos and Chapter.
-- Added 1 weapon style; Chapter style Charge Rifle (Lasgun).
-- Added 2 Ideogram styles; Imperial and Chaos.
-- Minor fixes and updates.
-	</description>
+	<description>Base mod for the Rimhammer 30,000 mod project. Ensure this is loaded above all other Rimhammer 30k mods.</description>
 </ModMetaData>

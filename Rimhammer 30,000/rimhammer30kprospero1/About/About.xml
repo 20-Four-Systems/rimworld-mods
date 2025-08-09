@@ -16,10 +16,16 @@
 			<downloadUrl>https://github.com/20-Four-Systems/rimworld-mods/tree/master/Rimhammer%2030%2C000/rimhammer30k</downloadUrl>
 		</li>
 		<li>
+			<packageId>Rearden.MaleAndFemaleOnlyGenes</packageId>
+			<displayName>Male- and Female- Only Genes Continued</displayName>
+			<downloadUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3249501807</downloadUrl>
+		</li>
+		<li>
 			<packageId>204Sys.diversehumanskintones</packageId>
 			<displayName>Diverse Human Skin Tones</displayName>
 			<downloadUrl>https://github.com/20-Four-Systems/rimworld-mods/tree/master/Diverse%20Human%20Skin%20Tones</downloadUrl>
 		</li>
 	</modDependencies>
-	<description></description>
-</ModMetaData>
+	<description>The Great Ocean holds many mysteries. Despite this, much has been learned by the Thousand Sons, beloved sons of Magnus, who endeavour to understand it.
+
+Not all of their gene-cousins hold with such pursuits of forbidden learning. At the decree of the Emperor, forces move in the darkness of space that have caught the scent of Prospero...</description></ModMetaData>

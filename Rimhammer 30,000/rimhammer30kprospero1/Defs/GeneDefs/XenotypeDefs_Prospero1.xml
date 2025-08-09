@@ -14,6 +14,7 @@
 		<chanceToUseNameMaker>1</chanceToUseNameMaker>
 		<genes>
 			<li>204_GeneSeed_VI</li>
+			<li>MaleOnly</li>
 			<!-- Cosmetics -->
 			<li>Body_Hulk</li>
 			<li>204_Skin_NorthEurope</li>
@@ -33,6 +34,7 @@
 		<chanceToUseNameMaker>1</chanceToUseNameMaker>
 		<genes>
 			<li>204_GeneSeed_XV</li>
+			<li>MaleOnly</li>
 			<!-- Cosmetics -->
 			<li>Body_Hulk</li>
 			<li>204_Skin_NorthEurope</li>
