@@ -8,9 +8,13 @@ Full list of assorted mods for RimWorld.
 
 ### Releases
 *Diverse Human Skin Tones*
+
 *Rimhammer 30,000*
+
 *Rimhammer 30,000 = Prospero Burns*
 
 ### Planned
 
-*ChaoWorld*, *True Astrology*
+*ChaoWorld*
+
+*True Astrology*
