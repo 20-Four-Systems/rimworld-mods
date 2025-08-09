@@ -4,6 +4,8 @@
 
 # Rimhammer 30,000 Framework
 
+![Rimhammer 30k mod logo](https://raw.githubusercontent.com/20-Four-Systems/rimworld-mods/master/images/rimhammer30k.png)
+
 Base mod for the Rimhammer 30,000 mod project. Ensure this is loaded above all other Rimhammer 30k mods.
 
 Contains:
@@ -59,6 +61,8 @@ Contains:
 
 # Rimhammer 30,000 - Prospero Burns
 
+![Rimhammer 30k - Prospero Burns mod logo](https://raw.githubusercontent.com/20-Four-Systems/rimworld-mods/master/images/rimhammer30kprospero1.png)
+
 The Great Ocean holds many mysteries. Despite this, much has been learned by the Thousand Sons, beloved sons of Magnus, who endeavour to understand it.
 
 Not all of their gene-cousins hold with such pursuits of forbidden learning. At the decree of the Emperor, forces move in the darkness of space that have caught the scent of Prospero...
@@ -74,7 +78,7 @@ Contains:
 
 ## Changelog
 
-<details open>
+<details>
 	<summary>Prospero release (v1.0)</summary>
 
 - 2 Astartes Xenotypes: Tiskan and Vlka Fenryka.
