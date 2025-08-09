@@ -20,7 +20,7 @@ Contains:
 
 *For Rimworld 1.6* // *For Rimworld 1.5* // *For Rimworld 1.4*
 
-## Changelog
+### Changelog
 
 <details>
 	<summary>Framework update (v2.0)</summary>
@@ -76,7 +76,7 @@ Contains:
 
 *For Rimworld 1.6* // *For Rimworld 1.5* // *For Rimworld 1.4*
 
-## Changelog
+### Changelog
 
 <details>
 	<summary>Prospero release (v1.0)</summary>
