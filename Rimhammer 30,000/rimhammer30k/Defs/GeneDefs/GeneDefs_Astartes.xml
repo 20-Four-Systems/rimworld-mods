@@ -418,8 +418,7 @@
 			<def>204_Astartes</def>
 		</li>
 		<li>
-			<def>ShootingAccuracy</def>
-			<degree>-2</degree>
+			<def>204_SpaceWolves</def>
 		</li>
 	</forcedTraits>
 

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<IdeoIconDef>
+		<defName>Prospero1_VI</defName>
+		<iconPath>UI/Ideoligions/Astartes/Prospero1_VI</iconPath>
+		<memes>
+			<li>Rancher</li>
+		</memes>
+	</IdeoIconDef>
+
+	<IdeoIconDef>
+		<defName>Prospero1_XV</defName>
+		<iconPath>UI/Ideoligions/Astartes/Prospero1_XV</iconPath>
+		<memes>
+			<li>Rancher</li>
+		</memes>
+	</IdeoIconDef>
+
+</Defs>

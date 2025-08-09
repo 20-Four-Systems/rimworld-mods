@@ -48,6 +48,38 @@
 		</degreeDatas>
 	</TraitDef>
 	
+	<!-- Space Wolves -->
+	<TraitDef>
+		<defName>204_SpaceWolves</defName>
+		<commonality>0</commonality>
+		<degreeDatas>
+			<li>
+				<label>son of russ</label>
+				<description>[PAWN_nameDef] is a gene-son of Leman Russ, Primarch of the VIth Legion.</description>
+				<!-- degree>1</degree -->
+				
+				<!--- VI Skills -->
+				<skillGains>
+					<Animals>4</Animals>
+					<Melee>2</Melee>
+					<Shooting>2</Shooting>
+					<Medicine>8</Medicine>
+				</skillGains>
+				
+				<!-- VI Stats -->
+				<statOffsets>
+					<GlobalLearningFactor>0.50</GlobalLearningFactor>
+					<MentalBreakThreshold>0.09</MentalBreakThreshold>
+				</statOffsets>
+				
+				<!-- VI Possessions -->
+				<possessions>
+					<PsychicAmplifier />
+				</possessions>
+			</li>    
+		</degreeDatas>
+	</TraitDef>
+	
 	<!-- Thousand Sons -->
 	<TraitDef>
 		<defName>204_ThousandSons</defName>
@@ -57,8 +89,6 @@
 				<label>son of magnus</label>
 				<description>[PAWN_nameDef] is a gene-son of Magnus the Red, Primarch of the XVth Legion.</description>
 				<!-- degree>1</degree -->
-				
-				<!-- XV Passions -->
 				
 				<!--- XV Skills -->
 				<skillGains>

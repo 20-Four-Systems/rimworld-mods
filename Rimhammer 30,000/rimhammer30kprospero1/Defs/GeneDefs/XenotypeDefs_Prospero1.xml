@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" ?>	
 <Defs>
 
-	<!-- VIth - Fenrisian  - Space Wolves -->
+	<!-- VIth - Vlka Fenryka  - Space Wolves -->
 	<XenotypeDef>
-		<defName>Fenrisian</defName>
-		<label>fenrisian</label>
-		<description>Fenrisians are the feral sons of Leman Russ - the vicious wolfmen hailing from Fenris by the Space Wolves.</description>
-		<descriptionShort>Fenrisians are the feral sons of Leman Russ - the vicious wolfmen hailing from Fenris by the Space Wolves.</descriptionShort>
+		<defName>VlkaFenryka</defName>
+		<label>vlka fenryka</label>
+		<description>Vlka Fenryka, also known as the Space Wolves, are a Legion of the Legiones Astartes. Their homeworld is the feral death world of Fenris, and they are known for their savage combat style and strong ties to their pre-Imperial culture.</description>
+		<descriptionShort>Vlka Fenryka, also known as the Space Wolves, are a Legion of the Legiones Astartes.</descriptionShort>
 		<iconPath>UI/Icons/Xenotypes/204_Astartes</iconPath>
 		<inheritable>true</inheritable>
 		<nameMaker>NamerPersonDirtmole_Male</nameMaker>
@@ -17,16 +17,6 @@
 			<!-- Cosmetics -->
 			<li>Body_Hulk</li>
 			<li>204_Skin_NorthEurope</li>
-
-			<!-- 2/-2 Aptitude -->
-			<li>AptitudeStrong_Melee</li>
-			<li>AptitudeStrong_Animals</li>
-			<li>AptitudeTerrible_Medicine</li>
-
-			<!-- 3 Uniques -->
-			<li>AnimalWarcall</li>
-			<li>MinTemp_LargeDecrease</li>
-			<li>Aggression_HyperAggressive</li>
 		</genes>
 	</XenotypeDef>
 
@@ -34,8 +24,8 @@
 	<XenotypeDef>
 		<defName>Tiskan</defName>
 		<label>tiskan</label>
-		<description>tiskans are the mystical sons of Magnus the Red; the scattered cabals of sorcerers pulled to Prospero by the Thousand Sons.</description>
-		<descriptionShort>tiskan are the mystical sons of Magnus the Red; the scattered cabals of sorcerers pulled to Prospero by the Thousand Sons.</descriptionShort>
+		<description>Tiskans, also known as the Thousand Sons, are a Legion of the Legiones Astartes. They are known for their exceptional psychic abilities and the use of sorcery.</description>
+		<descriptionShort>Tiskans, also known as the Thousand Sons, are a Legion of the Legiones Astartes.</descriptionShort>
 		<iconPath>UI/Icons/Xenotypes/204_Astartes</iconPath>
 		<inheritable>true</inheritable>
 		<nameMaker>NamerPersonDirtmole_Male</nameMaker>

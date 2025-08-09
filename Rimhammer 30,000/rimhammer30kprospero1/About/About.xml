@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-	<name>Rimhammer 30,000: Prospero Burns</name>
+	<name>Rimhammer 30,000 - Prospero Burns</name>
 	<author>20-Four Systems</author>
 	<packageId>204Sys.rimhammer30kprospero1</packageId>
 	<url></url>
@@ -13,7 +13,7 @@
 		<li>
 			<packageId>204Sys.rimhammer30k</packageId>
 			<displayName>Rimhammer 30,000 Framework</displayName>
-			<downloadUrl></downloadUrl>
+			<downloadUrl>https://github.com/20-Four-Systems/rimworld-mods/tree/master/Rimhammer%2030%2C000/rimhammer30k</downloadUrl>
 		</li>
 		<li>
 			<packageId>204Sys.diversehumanskintones</packageId>
