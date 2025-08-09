@@ -24,7 +24,8 @@
 				<label>astartes</label>
 				<description>[PAWN_nameDef] was surgically implanted with the gene-seed of a Primarch. The procedure was a success. [PAWN_pronoun] became a super-soldier - an Angel of Death - never again to know fear.
 				</description>
-				<!-- degree>1</degree -->
+
+				<!--- Astartes Skills -->
 				<skillGains>
 					<Shooting>4</Shooting>
 					<Melee>4</Melee>
@@ -41,6 +42,7 @@
 				</skillGains>
 				<statOffsets></statOffsets>
 				
+				<!--- VI Stats -->
 				<statFactors>
 					<CertaintyLossFactor MayRequire="Ludeon.RimWorld.Ideology">0.5</CertaintyLossFactor>
 				</statFactors>
@@ -56,25 +58,28 @@
 			<li>
 				<label>son of russ</label>
 				<description>[PAWN_nameDef] is a gene-son of Leman Russ, Primarch of the VIth Legion.</description>
-				<!-- degree>1</degree -->
 				
 				<!--- VI Skills -->
 				<skillGains>
 					<Animals>4</Animals>
-					<Melee>2</Melee>
 					<Shooting>2</Shooting>
-					<Medicine>8</Medicine>
+					<Melee>2</Melee>
+					<Medicine>-8</Medicine>
 				</skillGains>
 				
 				<!-- VI Stats -->
+				<socialFightChanceFactor>3</socialFightChanceFactor>
+				
 				<statOffsets>
-					<GlobalLearningFactor>0.50</GlobalLearningFactor>
-					<MentalBreakThreshold>0.09</MentalBreakThreshold>
+					<MeleeHitChance>3</MeleeHitChance>
+					<MeleeDodgeChance>12</MeleeDodgeChance>
 				</statOffsets>
 				
 				<!-- VI Possessions -->
 				<possessions>
-					<PsychicAmplifier />
+					<MeleeWeapon_LongSword />
+					<Skull />
+					<Heart />
 				</possessions>
 			</li>    
 		</degreeDatas>

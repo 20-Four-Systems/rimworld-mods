@@ -17,7 +17,7 @@
   
   <StyleCategoryDef>
     <defName>204_Chapter</defName>
-    <label>Chapter</label>
+    <label>Legion</label>
     <iconPath>UI/Structures/204_LoyalistChapter</iconPath>
     <soundOngoingRitual>RitualSustainer_Christian</soundOngoingRitual>
     <ritualVisualEffectDef>Christian</ritualVisualEffectDef>
