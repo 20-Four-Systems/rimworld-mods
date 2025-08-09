@@ -2,7 +2,7 @@
 
 *As the Horus Heresy spreads, even backwater worlds on the fringes of the galaxy feel its tremors. The Rim is no exception to this.*
 
-# Rimhammer 30,000 Framework
+## Rimhammer 30,000 Framework
 
 ![Rimhammer 30k mod logo](https://raw.githubusercontent.com/20-Four-Systems/rimworld-mods/master/images/rimhammer30k.png)
 
@@ -59,7 +59,7 @@ Contains:
 
 </details>
 
-# Rimhammer 30,000 - Prospero Burns
+## Rimhammer 30,000 - Prospero Burns
 
 ![Rimhammer 30,000 - Prospero Burns mod logo](https://raw.githubusercontent.com/20-Four-Systems/rimworld-mods/master/images/rimhammer30kprospero1.png)
 
