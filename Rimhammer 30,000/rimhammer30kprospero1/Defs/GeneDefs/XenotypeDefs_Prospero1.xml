@@ -28,8 +28,8 @@
 		<descriptionShort>Tiskans, also known as the Thousand Sons, are a Legion of the Legiones Astartes.</descriptionShort>
 		<iconPath>UI/Icons/Xenotypes/204_Astartes</iconPath>
 		<inheritable>true</inheritable>
-		<nameMaker>NamerPersonDirtmole_Male</nameMaker>
-		<nameMakerFemale>NamerPersonDirtmole_Female</nameMakerFemale>
+		<nameMaker>NamerPersonTiskan</nameMaker>
+		<nameMakerFemale>NamerPersonTiskan</nameMakerFemale>
 		<chanceToUseNameMaker>1</chanceToUseNameMaker>
 		<genes>
 			<li>204_GeneSeed_XV</li>

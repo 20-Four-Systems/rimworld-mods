@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+	<!-- Thousand Sons -->
+	<RulePackDef>
+		<defName>NamerPersonTiskan</defName>
+		<rulePack>
+			<rulesStrings>
+				<li>r_name->[firstName] [lastName]</li>
+				<li>r_name->[firstName] '[nickName]' [lastName]</li>
+
+				<li>maybeHyphen(p=4)-></li>
+				<li>maybeHyphen->-</li>
+
+				<li>firstName(p=1)->[SylXV][nameEnd]</li>
+				<li>firstName(p=3)->[SylXV][nameEnd]</li>
+				<li>nickName->[SylXV][maybeHyphen][SylXV][nameEnd]</li>
+
+				<li>nickName->[SylXV][nameEnd]</li>
+
+				<li>lastName(p=3)->[lastGenerated]</li>
+				<li>lastGenerated->[SylXV][nameEnd]</li>
+				
+				<li>nameEnd->ek</li>
+				<li>nameEnd->on</li>
+				<li>nameEnd->andar</li>
+				<li>nameEnd->ur</li>
+				<li>nameEnd->ai</li>
+				
+				<li>nameEnd->akht</li>
+				<li>nameEnd->in</li>
+				<li>nameEnd->aura</li>
+				<li>nameEnd->ophet</li>
+				<li>nameEnd->osis</li>
+				
+				<li>nameEnd->or</li>
+				<li>nameEnd->a'ken</li>
+				<li>nameEnd->u</li>
+				<li>nameEnd->amagma</li>
+				<li>nameEnd->an</li>
+				
+				<li>nameEnd->is</li>
+			</rulesStrings>
+			<rulesFiles>
+				<li>SylXV->WordParts/Syllables_Tiskan</li>
+				<li>nicknameXV->Names/Nick_Male_Tiskan</li>
+			</rulesFiles>
+		</rulePack>
+	</RulePackDef>
+
+</Defs>
