@@ -4,7 +4,7 @@
 
 *Full list of assorted mods for RimWorld.*
 
-# Modlist
+## Our Mods
 
 ### Releases
 Diverse Human Skin Tones (v1.1)
