@@ -9,8 +9,8 @@
 		<descriptionShort>Vlka Fenryka, also known as the Space Wolves, are a Legion of the Legiones Astartes.</descriptionShort>
 		<iconPath>UI/Icons/Xenotypes/204_Astartes</iconPath>
 		<inheritable>true</inheritable>
-		<nameMaker>NamerPersonDirtmole_Male</nameMaker>
-		<nameMakerFemale>NamerPersonDirtmole_Female</nameMakerFemale>
+		<nameMaker>NamerPersonVlkaFenryka</nameMaker>
+		<nameMakerFemale>NamerPersonVlkaFenryka</nameMakerFemale>
 		<chanceToUseNameMaker>1</chanceToUseNameMaker>
 		<genes>
 			<li>204_GeneSeed_VI</li>

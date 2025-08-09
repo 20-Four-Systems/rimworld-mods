@@ -1,6 +1,52 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 
 <Defs>
+	<!-- Space Wolves -->
+	<RulePackDef>
+		<defName>NamerPersonVlkaFenryka</defName>
+		<rulePack>
+			<rulesStrings>
+				<li>r_name->[firstName] [lastName]</li>
+				<li>r_name->[firstName] '[nickName]' [lastName]</li>
+
+				<li>maybeHyphen(p=4)-></li>
+				<li>maybeHyphen->-</li>
+
+				<li>firstName(p=1)->[SylVI][nameEnd]</li>
+				<li>firstName(p=3)->[SylVI][nameEnd]</li>
+
+				<li>nickName->[SylVI][nameEnd]</li>
+				<li>nickName(p=3)->[lastnameVI]</li>
+
+				<li>lastName(p=3)->[lastnameVI]</li>
+				
+				<li>nameEnd->an</li>
+				<li>nameEnd->ak</li>
+				<li>nameEnd->al</li>
+				<li>nameEnd->orn</li>
+				<li>nameEnd->ar</li>
+				
+				<li>nameEnd->ik</li>
+				<li>nameEnd->ald</li>
+				<li>nameEnd->is</li>
+				<li>nameEnd->om</li>
+				<li>nameEnd->en</li>
+
+				<li>nameEnd->arl</li>
+				<li>nameEnd->inn</li>
+				<li>nameEnd->agyr</li>
+				<li>nameEnd->il</li>
+				<li>nameEnd->or</li>
+
+			</rulesStrings>
+			<rulesFiles>
+				<li>SylVI->WordParts/Syllables_VlkaFenryka</li>
+				<li>lastnameVI->Names/Last_Male_VlkaFenryka</li>
+			</rulesFiles>
+		</rulePack>
+	</RulePackDef>
+
+
 	<!-- Thousand Sons -->
 	<RulePackDef>
 		<defName>NamerPersonTiskan</defName>
@@ -14,12 +60,13 @@
 
 				<li>firstName(p=1)->[SylXV][nameEnd]</li>
 				<li>firstName(p=3)->[SylXV][nameEnd]</li>
-				<li>nickName->[SylXV][maybeHyphen][SylXV][nameEnd]</li>
+				<li>firstName->[SylXV][maybeHyphen][SylXV][nameEnd]</li>
 
 				<li>nickName->[SylXV][nameEnd]</li>
 
 				<li>lastName(p=3)->[lastGenerated]</li>
 				<li>lastGenerated->[SylXV][nameEnd]</li>
+				<li>lastName->[lastnameXV]</li>
 				
 				<li>nameEnd->ek</li>
 				<li>nameEnd->on</li>
@@ -43,7 +90,7 @@
 			</rulesStrings>
 			<rulesFiles>
 				<li>SylXV->WordParts/Syllables_Tiskan</li>
-				<li>nicknameXV->Names/Nick_Male_Tiskan</li>
+				<li>lastnameXV->Names/Last_Male_Tiskan</li>
 			</rulesFiles>
 		</rulePack>
 	</RulePackDef>
