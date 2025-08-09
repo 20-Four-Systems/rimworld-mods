@@ -2,13 +2,13 @@
 
 ![Diverse Human Skin Tones mod art](https://raw.githubusercontent.com/20-Four-Systems/rimworld-mods/master/images/diversehumanskintones.png)
 
-Adds unique entries for all real world continental human skin tones.
+*Adds unique entries for all real world continental human skin tones.*
 
 *For RimWorld 1.6* // *RimWorld 1.5* // *RimWorld 1.4*
 
 ## Changelog
 
-<details open>
+<details>
 	<summary>Maori release (v1.1)</summary>
 
 - Added an additional real world skin colour - Polynesian, for a total of 8.
