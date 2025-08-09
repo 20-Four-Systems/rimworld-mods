@@ -7,11 +7,11 @@ Full list of assorted mods for RimWorld.
 ## List
 
 ### Releases
-*Diverse Human Skin Tones (v1.1)*
+Diverse Human Skin Tones (v1.1)
 
-*Rimhammer 30,000 Framework (v2.0)*
+Rimhammer 30,000 Framework (v2.0)
 
-*Rimhammer 30,000 - Prospero Burns (v1.0)*
+Rimhammer 30,000 - Prospero Burns (v1.0)
 
 ### Planned
 
