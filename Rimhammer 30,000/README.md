@@ -68,7 +68,18 @@ Contains:
 - 2 Astartes Xenotypes: Tiskan and Vlka Fenryka.
 - 2 Ideoligion symbols: Thousand Sons (Pre-Heresy) and Space Wolves.
 - 2 unique namelists: Tiskan and Vlka Fenryka.
+- 2 ready-to-play Ideoligions: Thousand Sons and Space Wolves.
 
 *For Rimworld 1.6* // *For Rimworld 1.5* // *For Rimworld 1.4*
 
 ## Changelog
+
+<details open>
+	<summary>Prospero release (v1.0)</summary>
+
+- 2 Astartes Xenotypes: Tiskan and Vlka Fenryka.
+- 2 Ideoligion symbols: Thousand Sons (Pre-Heresy) and Space Wolves.
+- 2 unique namelists: Tiskan and Vlka Fenryka.
+- 2 ready-to-play Ideoligions: Thousand Sons and Space Wolves.
+
+</details>
